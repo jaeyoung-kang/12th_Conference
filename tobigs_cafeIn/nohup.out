@@ -1,0 +1,704 @@
+Watching for file changes with StatReloader
+[13/Jul/2021 18:05:51] "POST /main/result HTTP/1.1" 200 625
+[13/Jul/2021 18:07:37] "POST /main/result HTTP/1.1" 200 589
+[13/Jul/2021 18:08:26] "POST /main/result HTTP/1.1" 200 673
+[13/Jul/2021 18:09:50] "POST /main/result HTTP/1.1" 200 641
+[13/Jul/2021 18:10:23] "POST /main/result HTTP/1.1" 200 625
+Watching for file changes with StatReloader
+[13/Jul/2021 18:12:09] "POST /main/result HTTP/1.1" 200 618
+[13/Jul/2021 18:12:31] "POST /main/result HTTP/1.1" 200 597
+[13/Jul/2021 18:13:15] "POST /main/result HTTP/1.1" 200 606
+[13/Jul/2021 18:13:35] "POST /main/result HTTP/1.1" 200 664
+[13/Jul/2021 18:14:13] "POST /main/result HTTP/1.1" 200 628
+[13/Jul/2021 18:15:00] "POST /main/result HTTP/1.1" 200 638
+[13/Jul/2021 18:19:03] "POST /main/result HTTP/1.1" 200 621
+[13/Jul/2021 18:19:04] "POST /main/result HTTP/1.1" 200 561
+[13/Jul/2021 18:20:24] "POST /main/result HTTP/1.1" 200 609
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 13, 2021 - 18:04:51
+Django version 2.2.4, using settings 'tobigs_cafeIn.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+[{'review_cafename': '쥬씨 서울시립대점', 'link': 'https://www.diningcode.com/profile.php?rid=V7Rhg37s4yx3'}, {'review_cafename': '17도씨', 'link': 'https://www.diningcode.com/profile.php?rid=ULkIg7tIGmky'}, {'review_cafename': '파오파오차', 'link': 'https://www.diningcode.com/profile.php?rid=ZQ4WJPvmNoZV'}, {'review_cafename': '콩도리 카페', 'link': 'https://www.diningcode.com/profile.php?rid=eC7oQcYmOLp8'}, {'review_cafename': '로우슬로우', 'link': 'https://www.diningcode.com/profile.php?rid=MZDw4QmilktT'}]
+[{'review_cafename': '1FLF', 'link': 'https://www.diningcode.com/profile.php?rid=5sK8kFK2K1JQ'}, {'review_cafename': '일커피 선릉역점', 'link': 'https://www.diningcode.com/profile.php?rid=SGnN60pXPODk'}, {'review_cafename': '쥬씨 서울시립대점', 'link': 'https://www.diningcode.com/profile.php?rid=V7Rhg37s4yx3'}, {'review_cafename': '209 Lounge', 'link': 'https://www.diningcode.com/profile.php?rid=88ngGvA5Qofd'}, {'review_cafename': '설빙', 'link': 'https://www.diningcode.com/profile.php?rid=s2hTHu2VpA79'}]
+[{'review_cafename': '포엠', 'link': 'https://www.diningcode.com/profile.php?rid=U34cHgLtFUMv'}, {'review_cafename': '오브코 하우스', 'link': 'https://www.diningcode.com/profile.php?rid=H1WpoTz4Vxsf'}, {'review_cafename': '카페라리 서초점', 'link': 'https://www.diningcode.com/profile.php?rid=5EJyMqJcyOqy'}, {'review_cafename': '제너러스커피 등촌역점', 'link': 'https://www.diningcode.com/profile.php?rid=rYW7r8aMwsX1'}, {'review_cafename': '쥬씨 서울시립대점', 'link': 'https://www.diningcode.com/profile.php?rid=V7Rhg37s4yx3'}]
+[{'review_cafename': '두화당', 'link': 'https://www.diningcode.com/profile.php?rid=wS08XZBM2VGL'}, {'review_cafename': '멜팅폼', 'link': 'https://www.diningcode.com/profile.php?rid=sf78WbzKcgMj'}, {'review_cafename': '더 스팟 패뷸러스', 'link': 'https://www.diningcode.com/profile.php?rid=xP8j67fJIBCa'}, {'review_cafename': '림폴커피', 'link': 'https://www.diningcode.com/profile.php?rid=r7QaoetxHSbm'}, {'review_cafename': '도쿄밀크치즈케익팩토리', 'link': 'https://www.diningcode.com/profile.php?rid=y06Ne2DdPOFS'}]
+[{'review_cafename': '17도씨', 'link': 'https://www.diningcode.com/profile.php?rid=ULkIg7tIGmky'}, {'review_cafename': '쥬씨 서울시립대점', 'link': 'https://www.diningcode.com/profile.php?rid=V7Rhg37s4yx3'}, {'review_cafename': '유어페이보릿', 'link': 'https://www.diningcode.com/profile.php?rid=he6gSeV06XHs'}, {'review_cafename': '커피볶는집', 'link': 'https://www.diningcode.com/profile.php?rid=2JXMXglNZY09'}, {'review_cafename': '우나스 (Unas)', 'link': 'https://www.diningcode.com/profile.php?rid=YIsahIL3aBXU'}]
+[{'review_cafename': '일리카페 보라매점', 'link': 'https://www.diningcode.com/profile.php?rid=ACaH1uvL5Pcm'}, {'review_cafename': '식물', 'link': 'https://www.diningcode.com/profile.php?rid=J5eXAQIiHc7J'}, {'review_cafename': '주택커피  영등포점', 'link': 'https://www.diningcode.com/profile.php?rid=bHC266qMKqbT'}, {'review_cafename': '요거트맨', 'link': 'https://www.diningcode.com/profile.php?rid=mmbDhCd1UZVR'}, {'review_cafename': '일상', 'link': 'https://www.diningcode.com/profile.php?rid=ZMOp14XkoPqS'}]
+[{'review_cafename': '포엠', 'link': 'https://www.diningcode.com/profile.php?rid=U34cHgLtFUMv'}, {'review_cafename': 'RADIANT', 'link': 'https://www.diningcode.com/profile.php?rid=rB7oCiWVesdS'}, {'review_cafename': '카페제시카', 'link': 'https://www.diningcode.com/profile.php?rid=PDcJtibIslHi'}, {'review_cafename': '502세컨즈카페', 'link': 'https://www.diningcode.com/profile.php?rid=C0NCLb9VWHQz'}, {'review_cafename': '꿀스커피  잠실점', 'link': 'https://www.diningcode.com/profile.php?rid=XJItbcSC9mLF'}]
+[{'review_cafename': '아디스아바바', 'link': 'https://www.diningcode.com/profile.php?rid=d4Bp515CRtZe'}, {'review_cafename': '테이크어룩', 'link': 'https://www.diningcode.com/profile.php?rid=oUN0ADw28UFI'}, {'review_cafename': '안국153', 'link': 'https://www.diningcode.com/profile.php?rid=9YYznSpiNyGQ'}, {'review_cafename': '커피레터', 'link': 'https://www.diningcode.com/profile.php?rid=qwaInJYmEF5L'}, {'review_cafename': '블루멘가쎄', 'link': 'https://www.diningcode.com/profile.php?rid=6dvU3YolUJkH'}]
+[{'review_cafename': '멜팅폼', 'link': 'https://www.diningcode.com/profile.php?rid=sf78WbzKcgMj'}, {'review_cafename': '안국153', 'link': 'https://www.diningcode.com/profile.php?rid=9YYznSpiNyGQ'}, {'review_cafename': '아트나인x잇나인', 'link': 'https://www.diningcode.com/profile.php?rid=U8xVt2dAEV8u'}, {'review_cafename': '팔공티  고속터미널점', 'link': 'https://www.diningcode.com/profile.php?rid=yqupjMPVthFy'}, {'review_cafename': '클립에스프레소 능동점', 'link': 'https://www.diningcode.com/profile.php?rid=k0AR31a1mokT'}]
+[{'review_cafename': '리틀바이리틀', 'link': 'https://www.diningcode.com/profile.php?rid=eIPigg5HUCIb'}, {'review_cafename': '비하인드미', 'link': 'https://www.diningcode.com/profile.php?rid=ctx2gGG2O584'}, {'review_cafename': '하삼동커피 가재울점', 'link': 'https://www.diningcode.com/profile.php?rid=DpppltGPL5MA'}, {'review_cafename': '더치랩', 'link': 'https://www.diningcode.com/profile.php?rid=mSBXZd7gyPZU'}, {'review_cafename': '버스커', 'link': 'https://www.diningcode.com/profile.php?rid=FFwJZNYNaMJz'}]
+[{'review_cafename': '17도씨', 'link': 'https://www.diningcode.com/profile.php?rid=ULkIg7tIGmky'}, {'review_cafename': '롤링핀  아차산역', 'link': 'https://www.diningcode.com/profile.php?rid=zme3BxOXPK3x'}, {'review_cafename': '쥬씨 서울시립대점', 'link': 'https://www.diningcode.com/profile.php?rid=V7Rhg37s4yx3'}, {'review_cafename': '유어페이보릿', 'link': 'https://www.diningcode.com/profile.php?rid=he6gSeV06XHs'}, {'review_cafename': '챔프커피', 'link': 'https://www.diningcode.com/profile.php?rid=0BsCJ0QaEHGJ'}]
+[{'review_cafename': '코뮨', 'link': 'https://www.diningcode.com/profile.php?rid=D8gOpyCCvOYF'}, {'review_cafename': '일릴리', 'link': 'https://www.diningcode.com/profile.php?rid=X7MDVja58KSO'}, {'review_cafename': '드립하우스', 'link': 'https://www.diningcode.com/profile.php?rid=UzNJExjduzd7'}, {'review_cafename': '사월의물고기', 'link': 'https://www.diningcode.com/profile.php?rid=rE0mwZJeHl1P'}, {'review_cafename': '플럭스커피로스터스', 'link': 'https://www.diningcode.com/profile.php?rid=YNfD7UqNpz24'}]
+[{'review_cafename': '두화당', 'link': 'https://www.diningcode.com/profile.php?rid=wS08XZBM2VGL'}, {'review_cafename': '는커피', 'link': 'https://www.diningcode.com/profile.php?rid=sQ0h4i7VgZ1Y'}, {'review_cafename': '커피블랑', 'link': 'https://www.diningcode.com/profile.php?rid=IpC1qK1W9pYE'}, {'review_cafename': '에일당', 'link': 'https://www.diningcode.com/profile.php?rid=ClOIitokmaVL'}, {'review_cafename': '빈칸', 'link': 'https://www.diningcode.com/profile.php?rid=xPx2yGGqH6V2'}]
+[{'review_cafename': '와일드멀블루차', 'link': 'https://www.diningcode.com/profile.php?rid=Bylgdw8MrDqN'}, {'review_cafename': '더메리어', 'link': 'https://www.diningcode.com/profile.php?rid=Mq2jNgyXMUEN'}, {'review_cafename': '일일커피', 'link': 'https://www.diningcode.com/profile.php?rid=TJgWFVMJuhjT'}, {'review_cafename': 'TOBY COFFEE', 'link': 'https://www.diningcode.com/profile.php?rid=RjEJ95NYAmlJ'}, {'review_cafename': '랭 스터디카페', 'link': 'https://www.diningcode.com/profile.php?rid=vmY3xVKrhrHW'}]
+[{'review_cafename': '요거트맨', 'link': 'https://www.diningcode.com/profile.php?rid=mmbDhCd1UZVR'}, {'review_cafename': '세컨하우스', 'link': 'https://www.diningcode.com/profile.php?rid=cFRS8g6x6AHY'}, {'review_cafename': '카페베네 신도림테크노마트점', 'link': 'https://www.diningcode.com/profile.php?rid=YVG7EJrgFea5'}, {'review_cafename': '레어마카롱 교대점', 'link': 'https://www.diningcode.com/profile.php?rid=p6EVmKzjxYlW'}, {'review_cafename': '에일당', 'link': 'https://www.diningcode.com/profile.php?rid=ClOIitokmaVL'}][13/Jul/2021 18:25:43] "POST /main/result HTTP/1.1" 200 671
+[14/Jul/2021 00:47:36] "POST /main/result HTTP/1.1" 200 591
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[14/Jul/2021 14:10:19] "GET / HTTP/1.1" 200 12026
+[14/Jul/2021 14:10:19] "GET /static/css/styles.css HTTP/1.1" 304 0
+[14/Jul/2021 14:10:20] "GET /static/assets/img/bg-masthead.jpg HTTP/1.1" 200 476728
+[14/Jul/2021 14:10:30] "GET / HTTP/1.1" 200 12026
+[14/Jul/2021 14:10:31] "GET /static/assets/coffee_fav.png HTTP/1.1" 200 367
+Not Found: /favicon.ico
+[14/Jul/2021 14:12:39] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 14:12:47] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 14:13:41] "GET /favicon.ico HTTP/1.1" 404 2766
+[14/Jul/2021 14:13:58] "GET / HTTP/1.1" 200 12026
+[14/Jul/2021 14:13:59] "GET /static/assets/coffee_fav.png HTTP/1.1" 200 367
+[14/Jul/2021 14:31:37] "GET / HTTP/1.1" 200 12026
+[14/Jul/2021 14:31:38] "GET /static/assets/coffee_fav.png HTTP/1.1" 200 367
+[14/Jul/2021 14:32:15] "POST /main/result HTTP/1.1" 200 964
+[14/Jul/2021 14:32:15] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%98%20%EB%85%B8%EB%9E%80%20%EC%BD%94%EB%81%BC%EB%A6%AC_1.jpg HTTP/1.1" 200 265942
+[14/Jul/2021 14:32:15] "GET /main/getImg?imgId=%EB%8D%94%EB%B9%88%EB%A7%88%EC%BC%93_3.jpg HTTP/1.1" 200 289667
+[14/Jul/2021 14:32:15] "GET /main/getImg?imgId=%EB%8B%AC%EB%AA%A8%ED%89%81%EC%9D%B4%20%EB%A7%88%EC%B9%B4%EB%A1%B1_1.jpg HTTP/1.1" 200 286347
+[14/Jul/2021 14:32:15] "GET /main/getImg?imgId=%EB%8B%AC%ED%83%80%EB%83%A5%EC%9D%98%EC%BB%A4%ED%94%BC_2.jpg HTTP/1.1" 200 155088
+[14/Jul/2021 14:32:15] "GET /main/getImg?imgId=%ED%8C%8C%ED%8B%B0%EC%84%B8%EB%A6%AC%20%EB%8F%84%ED%9A%A8_3.jpg HTTP/1.1" 200 309704
+/workspace/tobigs_cafeIn/main/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 14, 2021 - 14:10:18
+Django version 2.2.4, using settings 'tobigs_cafeIn.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+[{'review_cafename': '달모퉁이 마카롱', 'link': 'https://www.diningcode.com/profile.php?rid=CrnOHU4AplZZ', 'imgname_123': '달모퉁이 마카롱_1.jpg'}, {'review_cafename': '카페 노란 코끼리', 'link': 'https://www.diningcode.com/profile.php?rid=hG2Zz4GSWiRs', 'imgname_123': '카페 노란 코끼리_1.jpg'}, {'review_cafename': '더빈마켓', 'link': 'https://www.diningcode.com/profile.php?rid=17B6DVXk8Th1', 'imgname_123': '더빈마켓_3.jpg'}, {'review_cafename': '파티세리 도효', 'link': 'https://www.diningcode.com/profile.php?rid=v9NoHbjYvm49', 'imgname_123': '파티세리 도효_3.jpg'}, {'review_cafename': '달타냥의커피', 'link': 'https://www.diningcode.com/profile.php?rid=YXnqKwkFaaXg', 'imgname_123': '달타냥의커피_2.jpg'}]
+Watching for file changes with StatReloader
+/workspace/tobigs_cafeIn/main/model/model.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 14, 2021 - 14:32:55
+Django version 2.2.4, using settings 'tobigs_cafeIn.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+Internal Server Error: /main/result
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/workspace/tobigs_cafeIn/main/views.py", line 28, in result
+    close_list = model.image_plus(df, location+'img_final/',img) # 바이트 인코딩된 이미지를 Image.read()가 읽으면 이미지 처럼 사용할 수 있음.
+  File "/workspace/tobigs_cafeIn/main/model/model.py", line 310, in image_plus
+    img = Image.open(location+ 'img_final/' + img_name).convert("RGB")
+TypeError: can only concatenate str (not "_io.BytesIO") to str
+[14/Jul/2021 14:34:30] "POST /main/result HTTP/1.1" 500 85243
+Internal Server Error: /main/result
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/workspace/tobigs_cafeIn/main/views.py", line 28, in result
+    close_list = model.image_plus(df, location+'img_final/',img) # 바이트 인코딩된 이미지를 Image.read()가 읽으면 이미지 처럼 사용할 수 있음.
+  File "/workspace/tobigs_cafeIn/main/model/model.py", line 310, in image_plus
+    img = Image.open(location+ 'img_final/' + img_name).convert("RGB")
+TypeError: can only concatenate str (not "_io.BytesIO") to str
+[14/Jul/2021 14:34:44] "POST /main/result HTTP/1.1" 500 85243
+/workspace/tobigs_cafeIn/main/model/model.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 14, 2021 - 14:34:18
+Django version 2.2.4, using settings 'tobigs_cafeIn.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+######## else ########
+######## else ########
+Watching for file changes with StatReloader
+[14/Jul/2021 14:36:54] "POST /main/result HTTP/1.1" 200 912
+[14/Jul/2021 14:36:55] "GET /main/getImg?imgId=%EB%8B%AC%EB%AA%A8%ED%89%81%EC%9D%B4%20%EB%A7%88%EC%B9%B4%EB%A1%B1_1.jpg HTTP/1.1" 200 286347
+[14/Jul/2021 14:36:55] "GET /main/getImg?imgId=%EB%8D%94%EB%B9%88%EB%A7%88%EC%BC%93_3.jpg HTTP/1.1" 200 289667
+[14/Jul/2021 14:36:55] "GET /main/getImg?imgId=%ED%8C%8C%ED%8B%B0%EC%84%B8%EB%A6%AC%20%EB%8F%84%ED%9A%A8_3.jpg HTTP/1.1" 200 309704
+[14/Jul/2021 14:36:55] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%98%20%EB%85%B8%EB%9E%80%20%EC%BD%94%EB%81%BC%EB%A6%AC_1.jpg HTTP/1.1" 200 265942
+[14/Jul/2021 14:36:55] "GET /main/getImg?imgId=MND%20COFFEE_2.jpg HTTP/1.1" 200 305238
+/workspace/tobigs_cafeIn/main/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 14, 2021 - 14:36:45
+Django version 2.2.4, using settings 'tobigs_cafeIn.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+######## else ########
+[{'review_cafename': 'MND COFFEE', 'link': 'https://www.diningcode.com/profile.php?rid=9GuuoBClaQ9X', 'imgname_123': 'MND COFFEE_2.jpg'}, {'review_cafename': '달모퉁이 마카롱', 'link': 'https://www.diningcode.com/profile.php?rid=CrnOHU4AplZZ', 'imgname_123': '달모퉁이 마카롱_1.jpg'}, {'review_cafename': '카페 노란 코끼리', 'link': 'https://www.diningcode.com/profile.php?rid=hG2Zz4GSWiRs', 'imgname_123': '카페 노란 코끼리_1.jpg'}, {'review_cafename': '더빈마켓', 'link': 'https://www.diningcode.com/profile.php?rid=17B6DVXk8Th1', 'imgname_123': '더빈마켓_3.jpg'}, {'review_cafename': '파티세리 도효', 'link': 'https://www.diningcode.com/profile.php?rid=v9NoHbjYvm49', 'imgname_123': '파티세리 도효_3.jpg'}]
+Watching for file changes with StatReloader
+[14/Jul/2021 14:38:12] "POST /main/result HTTP/1.1" 200 964
+[14/Jul/2021 14:38:12] "GET /main/getImg?imgId=%EB%8B%AC%EB%AA%A8%ED%89%81%EC%9D%B4%20%EB%A7%88%EC%B9%B4%EB%A1%B1_1.jpg HTTP/1.1" 200 286347
+[14/Jul/2021 14:38:12] "GET /main/getImg?imgId=%ED%8C%8C%ED%8B%B0%EC%84%B8%EB%A6%AC%20%EB%8F%84%ED%9A%A8_3.jpg HTTP/1.1" 200 309704
+[14/Jul/2021 14:38:12] "GET /main/getImg?imgId=%EB%8B%AC%ED%83%80%EB%83%A5%EC%9D%98%EC%BB%A4%ED%94%BC_2.jpg HTTP/1.1" 200 155088
+[14/Jul/2021 14:38:12] "GET /main/getImg?imgId=%EB%8D%94%EB%B9%88%EB%A7%88%EC%BC%93_3.jpg HTTP/1.1" 200 289667
+[14/Jul/2021 14:38:12] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%98%20%EB%85%B8%EB%9E%80%20%EC%BD%94%EB%81%BC%EB%A6%AC_1.jpg HTTP/1.1" 200 265942
+/workspace/tobigs_cafeIn/main/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 14, 2021 - 14:37:37
+Django version 2.2.4, using settings 'tobigs_cafeIn.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+[{'review_cafename': '달모퉁이 마카롱', 'link': 'https://www.diningcode.com/profile.php?rid=CrnOHU4AplZZ', 'imgname_123': '달모퉁이 마카롱_1.jpg'}, {'review_cafename': '카페 노란 코끼리', 'link': 'https://www.diningcode.com/profile.php?rid=hG2Zz4GSWiRs', 'imgname_123': '카페 노란 코끼리_1.jpg'}, {'review_cafename': '더빈마켓', 'link': 'https://www.diningcode.com/profile.php?rid=17B6DVXk8Th1', 'imgname_123': '더빈마켓_3.jpg'}, {'review_cafename': '파티세리 도효', 'link': 'https://www.diningcode.com/profile.php?rid=v9NoHbjYvm49', 'imgname_123': '파티세리 도효_3.jpg'}, {'review_cafename': '달타냥의커피', 'link': 'https://www.diningcode.com/profile.php?rid=YXnqKwkFaaXg', 'imgname_123': '달타냥의커피_2.jpg'}]
+Watching for file changes with StatReloader
+[14/Jul/2021 14:38:42] "POST /main/result HTTP/1.1" 200 942
+[14/Jul/2021 14:38:42] "GET /main/getImg?imgId=502%EC%84%B8%EC%BB%A8%EC%A6%88%EC%B9%B4%ED%8E%98_3.jpg HTTP/1.1" 200 134691
+[14/Jul/2021 14:38:42] "GET /main/getImg?imgId=%EC%BB%A4%ED%94%BC%ED%83%90%EC%9D%B4%EB%82%98_1.jpg HTTP/1.1" 200 79021
+[14/Jul/2021 14:38:42] "GET /main/getImg?imgId=%EC%95%8C%ED%94%84%EB%A6%AC%EB%B2%A0%20%EB%B2%A0%EC%9D%B4%EC%BB%A4%EB%A6%AC%EC%B9%B4%ED%8E%98_1.jpg HTTP/1.1" 200 81213
+[14/Jul/2021 14:38:42] "GET /main/getImg?imgId=%EB%8D%B0%EC%9D%BC%EB%A6%AC_1.jpg HTTP/1.1" 200 91405
+[14/Jul/2021 14:38:42] "GET /main/getImg?imgId=%EB%B9%84%EC%A7%80%EC%97%A0%20%EC%BB%A4%ED%94%BC_1.jpg HTTP/1.1" 200 118008
+[14/Jul/2021 14:41:08] "GET /main/getImg?imgId=%EB%8D%B0%EC%9D%BC%EB%A6%AC_1.jpg HTTP/1.1" 200 91405
+[14/Jul/2021 14:41:08] "GET /main/getImg?imgId=%EC%BB%A4%ED%94%BC%ED%83%90%EC%9D%B4%EB%82%98_1.jpg HTTP/1.1" 200 79021
+[14/Jul/2021 14:41:08] "GET /main/getImg?imgId=%EC%95%8C%ED%94%84%EB%A6%AC%EB%B2%A0%20%EB%B2%A0%EC%9D%B4%EC%BB%A4%EB%A6%AC%EC%B9%B4%ED%8E%98_1.jpg HTTP/1.1" 200 81213
+[14/Jul/2021 14:41:08] "GET /main/getImg?imgId=502%EC%84%B8%EC%BB%A8%EC%A6%88%EC%B9%B4%ED%8E%98_3.jpg HTTP/1.1" 200 134691
+[14/Jul/2021 14:41:08] "GET /main/getImg?imgId=%EB%B9%84%EC%A7%80%EC%97%A0%20%EC%BB%A4%ED%94%BC_1.jpg HTTP/1.1" 200 118008
+[14/Jul/2021 14:41:30] "POST /main/result HTTP/1.1" 200 898
+[14/Jul/2021 14:41:31] "GET /main/getImg?imgId=%EC%9C%A0%EB%8B%88%EB%A5%B4_3.jpg HTTP/1.1" 200 156115
+[14/Jul/2021 14:41:31] "GET /main/getImg?imgId=u%20and%20me_3.jpg HTTP/1.1" 200 338229
+[14/Jul/2021 14:41:31] "GET /main/getImg?imgId=%EC%A5%AC%EC%8B%9C%20%26%20%EC%B0%A8%EC%96%8C%20%EB%A7%88%EB%93%A4%EC%97%AD%EC%A0%90_3.jpg HTTP/1.1" 200 68675
+[14/Jul/2021 14:41:31] "GET /main/getImg?imgId=%EB%8D%94%EB%B2%A4%ED%8B%B0%20%EA%B0%95%EB%82%A8%EA%B5%AC%EC%B2%AD%EC%97%AD%EC%A0%90_3.jpg HTTP/1.1" 200 186254
+[14/Jul/2021 14:41:31] "GET /main/getImg?imgId=%EC%86%8C%ED%9D%AC%EB%84%A4_3.jpg HTTP/1.1" 200 126484
+[14/Jul/2021 14:42:16] "POST /main/result HTTP/1.1" 200 898
+[14/Jul/2021 14:42:16] "GET /main/getImg?imgId=u%20and%20me_3.jpg HTTP/1.1" 200 338229
+[14/Jul/2021 14:42:16] "GET /main/getImg?imgId=%EC%9C%A0%EB%8B%88%EB%A5%B4_3.jpg HTTP/1.1" 200 156115
+[14/Jul/2021 14:42:16] "GET /main/getImg?imgId=%EC%A5%AC%EC%8B%9C%20%26%20%EC%B0%A8%EC%96%8C%20%EB%A7%88%EB%93%A4%EC%97%AD%EC%A0%90_3.jpg HTTP/1.1" 200 68675
+[14/Jul/2021 14:42:16] "GET /main/getImg?imgId=%EC%86%8C%ED%9D%AC%EB%84%A4_3.jpg HTTP/1.1" 200 126484
+[14/Jul/2021 14:42:16] "GET /main/getImg?imgId=%EB%8D%94%EB%B2%A4%ED%8B%B0%20%EA%B0%95%EB%82%A8%EA%B5%AC%EC%B2%AD%EC%97%AD%EC%A0%90_3.jpg HTTP/1.1" 200 186254
+[14/Jul/2021 14:46:48] "POST /main/result HTTP/1.1" 200 912
+[14/Jul/2021 14:46:48] "GET /main/getImg?imgId=MND%20COFFEE_2.jpg HTTP/1.1" 200 305238
+[14/Jul/2021 14:46:48] "GET /main/getImg?imgId=%ED%8C%8C%ED%8B%B0%EC%84%B8%EB%A6%AC%20%EB%8F%84%ED%9A%A8_3.jpg HTTP/1.1" 200 309704
+[14/Jul/2021 14:46:48] "GET /main/getImg?imgId=%EB%8B%AC%EB%AA%A8%ED%89%81%EC%9D%B4%20%EB%A7%88%EC%B9%B4%EB%A1%B1_1.jpg HTTP/1.1" 200 286347
+[14/Jul/2021 14:46:48] "GET /main/getImg?imgId=%EB%8D%94%EB%B9%88%EB%A7%88%EC%BC%93_3.jpg HTTP/1.1" 200 289667
+[14/Jul/2021 14:46:48] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%98%20%EB%85%B8%EB%9E%80%20%EC%BD%94%EB%81%BC%EB%A6%AC_1.jpg HTTP/1.1" 200 265942
+[14/Jul/2021 14:47:38] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%98%20%EB%85%B8%EB%9E%80%20%EC%BD%94%EB%81%BC%EB%A6%AC_1.jpg HTTP/1.1" 200 265942
+[14/Jul/2021 14:47:39] "GET /main/getImg?imgId=%ED%8C%8C%ED%8B%B0%EC%84%B8%EB%A6%AC%20%EB%8F%84%ED%9A%A8_3.jpg HTTP/1.1" 200 309704
+[14/Jul/2021 14:47:39] "GET /main/getImg?imgId=MND%20COFFEE_2.jpg HTTP/1.1" 200 305238
+[14/Jul/2021 14:47:39] "GET /main/getImg?imgId=%EB%8D%94%EB%B9%88%EB%A7%88%EC%BC%93_3.jpg HTTP/1.1" 200 289667
+[14/Jul/2021 14:47:39] "GET /main/getImg?imgId=%EB%8B%AC%EB%AA%A8%ED%89%81%EC%9D%B4%20%EB%A7%88%EC%B9%B4%EB%A1%B1_1.jpg HTTP/1.1" 200 286347
+[14/Jul/2021 14:47:56] "POST /main/result HTTP/1.1" 200 912
+[14/Jul/2021 14:47:56] "GET /main/getImg?imgId=%EB%8B%AC%EB%AA%A8%ED%89%81%EC%9D%B4%20%EB%A7%88%EC%B9%B4%EB%A1%B1_1.jpg HTTP/1.1" 200 286347
+[14/Jul/2021 14:47:56] "GET /main/getImg?imgId=MND%20COFFEE_2.jpg HTTP/1.1" 200 305238
+[14/Jul/2021 14:47:56] "GET /main/getImg?imgId=%ED%8C%8C%ED%8B%B0%EC%84%B8%EB%A6%AC%20%EB%8F%84%ED%9A%A8_3.jpg HTTP/1.1" 200 309704
+[14/Jul/2021 14:47:56] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%98%20%EB%85%B8%EB%9E%80%20%EC%BD%94%EB%81%BC%EB%A6%AC_1.jpg HTTP/1.1" 200 265942
+[14/Jul/2021 14:47:56] "GET /main/getImg?imgId=%EB%8D%94%EB%B9%88%EB%A7%88%EC%BC%93_3.jpg HTTP/1.1" 200 289667
+[14/Jul/2021 14:48:12] "GET /main/getImg?imgId=MND%20COFFEE_2.jpg HTTP/1.1" 200 305238
+[14/Jul/2021 14:48:12] "GET /main/getImg?imgId=%EB%8B%AC%EB%AA%A8%ED%89%81%EC%9D%B4%20%EB%A7%88%EC%B9%B4%EB%A1%B1_1.jpg HTTP/1.1" 200 286347
+[14/Jul/2021 14:48:12] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%98%20%EB%85%B8%EB%9E%80%20%EC%BD%94%EB%81%BC%EB%A6%AC_1.jpg HTTP/1.1" 200 265942
+[14/Jul/2021 14:48:12] "GET /main/getImg?imgId=%EB%8D%94%EB%B9%88%EB%A7%88%EC%BC%93_3.jpg HTTP/1.1" 200 289667
+[14/Jul/2021 14:48:13] "GET /main/getImg?imgId=%ED%8C%8C%ED%8B%B0%EC%84%B8%EB%A6%AC%20%EB%8F%84%ED%9A%A8_3.jpg HTTP/1.1" 200 309704
+[14/Jul/2021 14:48:56] "GET /main/getImg?imgId=MND%20COFFEE_2.jpg HTTP/1.1" 200 305238
+[14/Jul/2021 14:48:56] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%98%20%EB%85%B8%EB%9E%80%20%EC%BD%94%EB%81%BC%EB%A6%AC_1.jpg HTTP/1.1" 200 265942
+[14/Jul/2021 14:48:56] "GET /main/getImg?imgId=%EB%8D%94%EB%B9%88%EB%A7%88%EC%BC%93_3.jpg HTTP/1.1" 200 289667
+[14/Jul/2021 14:48:56] "GET /main/getImg?imgId=%EB%8B%AC%EB%AA%A8%ED%89%81%EC%9D%B4%20%EB%A7%88%EC%B9%B4%EB%A1%B1_1.jpg HTTP/1.1" 200 286347
+[14/Jul/2021 14:48:56] "GET /main/getImg?imgId=%ED%8C%8C%ED%8B%B0%EC%84%B8%EB%A6%AC%20%EB%8F%84%ED%9A%A8_3.jpg HTTP/1.1" 200 309704
+[14/Jul/2021 14:49:40] "GET /main/getImg?imgId=MND%20COFFEE_2.jpg HTTP/1.1" 200 305238
+[14/Jul/2021 14:49:40] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%98%20%EB%85%B8%EB%9E%80%20%EC%BD%94%EB%81%BC%EB%A6%AC_1.jpg HTTP/1.1" 200 265942
+[14/Jul/2021 14:49:40] "GET /main/getImg?imgId=%EB%8B%AC%EB%AA%A8%ED%89%81%EC%9D%B4%20%EB%A7%88%EC%B9%B4%EB%A1%B1_1.jpg HTTP/1.1" 200 286347
+[14/Jul/2021 14:49:40] "GET /main/getImg?imgId=%EB%8D%94%EB%B9%88%EB%A7%88%EC%BC%93_3.jpg HTTP/1.1" 200 289667
+[14/Jul/2021 14:49:40] "GET /main/getImg?imgId=%ED%8C%8C%ED%8B%B0%EC%84%B8%EB%A6%AC%20%EB%8F%84%ED%9A%A8_3.jpg HTTP/1.1" 200 309704
+Not Found: /favicon.ico
+[14/Jul/2021 14:50:20] "GET /favicon.ico HTTP/1.1" 404 2766
+[14/Jul/2021 14:53:34] "POST /main/result HTTP/1.1" 200 942
+[14/Jul/2021 14:53:34] "GET /main/getImg?imgId=%EB%8D%B0%EC%9D%BC%EB%A6%AC_1.jpg HTTP/1.1" 200 91405
+[14/Jul/2021 14:53:34] "GET /main/getImg?imgId=502%EC%84%B8%EC%BB%A8%EC%A6%88%EC%B9%B4%ED%8E%98_3.jpg HTTP/1.1" 200 134691
+[14/Jul/2021 14:53:34] "GET /main/getImg?imgId=%EC%BB%A4%ED%94%BC%ED%83%90%EC%9D%B4%EB%82%98_1.jpg HTTP/1.1" 200 79021
+[14/Jul/2021 14:53:34] "GET /main/getImg?imgId=%EC%95%8C%ED%94%84%EB%A6%AC%EB%B2%A0%20%EB%B2%A0%EC%9D%B4%EC%BB%A4%EB%A6%AC%EC%B9%B4%ED%8E%98_1.jpg HTTP/1.1" 200 81213
+[14/Jul/2021 14:53:34] "GET /main/getImg?imgId=%EB%B9%84%EC%A7%80%EC%97%A0%20%EC%BB%A4%ED%94%BC_1.jpg HTTP/1.1" 200 118008
+[14/Jul/2021 14:54:36] "POST /main/result HTTP/1.1" 200 990
+[14/Jul/2021 14:54:37] "GET /main/getImg?imgId=%EC%95%A4%EC%8A%A4%EC%BB%A4%ED%94%BC%ED%81%B4%EB%9F%BD_3.jpg HTTP/1.1" 200 68838
+[14/Jul/2021 14:54:37] "GET /main/getImg?imgId=THE%20BREAD%20HOUSE_3.jpg HTTP/1.1" 200 9109
+[14/Jul/2021 14:54:37] "GET /main/getImg?imgId=%EC%97%85%EC%82%AC%EC%9D%B4%EB%93%9C%EC%BB%A4%ED%94%BC%20%20%EB%9A%9D%EC%84%AC%EC%A0%90_3.jpg HTTP/1.1" 200 184397
+[14/Jul/2021 14:54:37] "GET /main/getImg?imgId=%EC%95%84%EC%9D%B4%EB%8D%B4%ED%8B%B0%ED%8B%B0%EC%BB%A4%ED%94%BC%EB%9E%A9_3.jpg HTTP/1.1" 200 236234
+[14/Jul/2021 14:54:37] "GET /main/getImg?imgId=%EC%96%B8%EB%8D%94%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8B%B0%EB%93%9C_1.jpg HTTP/1.1" 200 244228
+[14/Jul/2021 14:55:19] "POST /main/result HTTP/1.1" 200 912
+[14/Jul/2021 14:55:19] "GET /main/getImg?imgId=%EB%8D%94%EB%B9%88%EB%A7%88%EC%BC%93_3.jpg HTTP/1.1" 200 289667
+[14/Jul/2021 14:55:20] "GET /main/getImg?imgId=%ED%8C%8C%ED%8B%B0%EC%84%B8%EB%A6%AC%20%EB%8F%84%ED%9A%A8_3.jpg HTTP/1.1" 200 309704
+[14/Jul/2021 14:55:20] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%98%20%EB%85%B8%EB%9E%80%20%EC%BD%94%EB%81%BC%EB%A6%AC_1.jpg HTTP/1.1" 200 265942
+[14/Jul/2021 14:55:20] "GET /main/getImg?imgId=%EB%8B%AC%EB%AA%A8%ED%89%81%EC%9D%B4%20%EB%A7%88%EC%B9%B4%EB%A1%B1_1.jpg HTTP/1.1" 200 286347
+[14/Jul/2021 14:55:20] "GET /main/getImg?imgId=MND%20COFFEE_2.jpg HTTP/1.1" 200 305238
+/workspace/tobigs_cafeIn/main/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 14, 2021 - 14:38:30
+Django version 2.2.4, using settings 'tobigs_cafeIn.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+######## else ########
+[{'review_cafename': '502세컨즈카페', 'link': 'https://www.diningcode.com/profile.php?rid=C0NCLb9VWHQz', 'imgname_123': '502세컨즈카페_3.jpg'}, {'review_cafename': '알프리베 베이커리카페', 'link': 'https://www.diningcode.com/profile.php?rid=dgHRHYQbMCoz', 'imgname_123': '알프리베 베이커리카페_1.jpg'}, {'review_cafename': '커피탐이나', 'link': 'https://www.diningcode.com/profile.php?rid=om5OI5IzPV7I', 'imgname_123': '커피탐이나_1.jpg'}, {'review_cafename': '데일리', 'link': 'https://www.diningcode.com/profile.php?rid=RpYFZbrk3TUC', 'imgname_123': '데일리_1.jpg'}, {'review_cafename': '비지엠 커피', 'link': 'https://www.diningcode.com/profile.php?rid=moAws5SZnpyi', 'imgname_123': '비지엠 커피_1.jpg'}]
+######## else ########
+[{'review_cafename': '유니르', 'link': 'https://www.diningcode.com/profile.php?rid=0T5KvgfsWDht', 'imgname_123': '유니르_3.jpg'}, {'review_cafename': '더벤티 강남구청역점', 'link': 'https://www.diningcode.com/profile.php?rid=By3q38m9VQNs', 'imgname_123': '더벤티 강남구청역점_3.jpg'}, {'review_cafename': '쥬시 & 차얌 마들역점', 'link': 'https://www.diningcode.com/profile.php?rid=G1ap8Tnx3ist', 'imgname_123': '쥬시 & 차얌 마들역점_3.jpg'}, {'review_cafename': 'u and me', 'link': 'https://www.diningcode.com/profile.php?rid=b7Txa3s94pmn', 'imgname_123': 'u and me_3.jpg'}, {'review_cafename': '소희네', 'link': 'https://www.diningcode.com/profile.php?rid=GIx128EZlRwB', 'imgname_123': '소희네_3.jpg'}]
+######## else ########
+[{'review_cafename': '유니르', 'link': 'https://www.diningcode.com/profile.php?rid=0T5KvgfsWDht', 'imgname_123': '유니르_3.jpg'}, {'review_cafename': '더벤티 강남구청역점', 'link': 'https://www.diningcode.com/profile.php?rid=By3q38m9VQNs', 'imgname_123': '더벤티 강남구청역점_3.jpg'}, {'review_cafename': '쥬시 & 차얌 마들역점', 'link': 'https://www.diningcode.com/profile.php?rid=G1ap8Tnx3ist', 'imgname_123': '쥬시 & 차얌 마들역점_3.jpg'}, {'review_cafename': 'u and me', 'link': 'https://www.diningcode.com/profile.php?rid=b7Txa3s94pmn', 'imgname_123': 'u and me_3.jpg'}, {'review_cafename': '소희네', 'link': 'https://www.diningcode.com/profile.php?rid=GIx128EZlRwB', 'imgname_123': '소희네_3.jpg'}]
+######## else ########
+[{'review_cafename': 'MND COFFEE', 'link': 'https://www.diningcode.com/profile.php?rid=9GuuoBClaQ9X', 'imgname_123': 'MND COFFEE_2.jpg'}, {'review_cafename': '달모퉁이 마카롱', 'link': 'https://www.diningcode.com/profile.php?rid=CrnOHU4AplZZ', 'imgname_123': '달모퉁이 마카롱_1.jpg'}, {'review_cafename': '카페 노란 코끼리', 'link': 'https://www.diningcode.com/profile.php?rid=hG2Zz4GSWiRs', 'imgname_123': '카페 노란 코끼리_1.jpg'}, {'review_cafename': '더빈마켓', 'link': 'https://www.diningcode.com/profile.php?rid=17B6DVXk8Th1', 'imgname_123': '더빈마켓_3.jpg'}, {'review_cafename': '파티세리 도효', 'link': 'https://www.diningcode.com/profile.php?rid=v9NoHbjYvm49', 'imgname_123': '파티세리 도효_3.jpg'}]
+######## else ########
+[{'review_cafename': 'MND COFFEE', 'link': 'https://www.diningcode.com/profile.php?rid=9GuuoBClaQ9X', 'imgname_123': 'MND COFFEE_2.jpg'}, {'review_cafename': '달모퉁이 마카롱', 'link': 'https://www.diningcode.com/profile.php?rid=CrnOHU4AplZZ', 'imgname_123': '달모퉁이 마카롱_1.jpg'}, {'review_cafename': '카페 노란 코끼리', 'link': 'https://www.diningcode.com/profile.php?rid=hG2Zz4GSWiRs', 'imgname_123': '카페 노란 코끼리_1.jpg'}, {'review_cafename': '더빈마켓', 'link': 'https://www.diningcode.com/profile.php?rid=17B6DVXk8Th1', 'imgname_123': '더빈마켓_3.jpg'}, {'review_cafename': '파티세리 도효', 'link': 'https://www.diningcode.com/profile.php?rid=v9NoHbjYvm49', 'imgname_123': '파티세리 도효_3.jpg'}]
+######## else ########
+[{'review_cafename': '502세컨즈카페', 'link': 'https://www.diningcode.com/profile.php?rid=C0NCLb9VWHQz', 'imgname_123': '502세컨즈카페_3.jpg'}, {'review_cafename': '알프리베 베이커리카페', 'link': 'https://www.diningcode.com/profile.php?rid=dgHRHYQbMCoz', 'imgname_123': '알프리베 베이커리카페_1.jpg'}, {'review_cafename': '커피탐이나', 'link': 'https://www.diningcode.com/profile.php?rid=om5OI5IzPV7I', 'imgname_123': '커피탐이나_1.jpg'}, {'review_cafename': '데일리', 'link': 'https://www.diningcode.com/profile.php?rid=RpYFZbrk3TUC', 'imgname_123': '데일리_1.jpg'}, {'review_cafename': '비지엠 커피', 'link': 'https://www.diningcode.com/profile.php?rid=moAws5SZnpyi', 'imgname_123': '비지엠 커피_1.jpg'}]
+######## else ########
+[{'review_cafename': '앤스커피클럽', 'link': 'https://www.diningcode.com/profile.php?rid=pO01g0GzmXcY', 'imgname_123': '앤스커피클럽_3.jpg'}, {'review_cafename': '언더스테이티드', 'link': 'https://www.diningcode.com/profile.php?rid=Vdu8hUalHuJP', 'imgname_123': '언더스테이티드_1.jpg'}, {'review_cafename': '업사이드커피  뚝섬점', 'link': 'https://www.diningcode.com/profile.php?rid=mew4JJBBu3ip', 'imgname_123': '업사이드커피  뚝섬점_3.jpg'}, {'review_cafename': '아이덴티티커피랩', 'link': 'https://www.diningcode.com/profile.php?rid=YivUxHaURF9A', 'imgname_123': '아이덴티티커피랩_3.jpg'}, {'review_cafename': 'THE BREAD HOUSE', 'link': 'https://www.diningcode.com/profile.php?rid=TlESxdmngkEH', 'imgname_123': 'THE BREAD HOUSE_3.jpg'}]
+######## else ########
+[{'review_cafename': 'MND COFFEE', 'link': 'https://www.diningcode.com/profile.php?rid=9GuuoBClaQ9X', 'imgname_123': 'MND COFFEE_2.jpg'}, {'review_cafename': '달모퉁이 마카롱', 'link': 'https://www.diningcode.com/profile.php?rid=CrnOHU4AplZZ', 'imgname_123': '달모퉁이 마카롱_1.jpg'}, {'review_cafename': '카페 노란 코끼리', 'link': 'https://www.diningcode.com/profile.php?rid=hG2Zz4GSWiRs', 'imgname_123': '카페 노란 코끼리_1.jpg'}, {'review_cafename': '더빈마켓', 'link': 'https://www.diningcode.com/profile.php?rid=17B6DVXk8Th1', 'imgname_123': '더빈마켓_3.jpg'}, {'review_cafename': '파티세리 도효', 'link': 'https://www.diningcode.com/profile.php?rid=v9NoHbjYvm49', 'imgname_123': '파티세리 도효_3.jpg'}]
+Watching for file changes with StatReloader
+[14/Jul/2021 14:56:23] "POST /main/result HTTP/1.1" 200 964
+[14/Jul/2021 14:56:23] "GET /main/getImg?imgId=%EB%8B%AC%ED%83%80%EB%83%A5%EC%9D%98%EC%BB%A4%ED%94%BC_2.jpg HTTP/1.1" 200 155088
+/workspace/tobigs_cafeIn/main/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 14, 2021 - 14:56:10
+Django version 2.2.4, using settings 'tobigs_cafeIn.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+[{'review_cafename': '달모퉁이 마카롱', 'link': 'https://www.diningcode.com/profile.php?rid=CrnOHU4AplZZ', 'imgname_123': '달모퉁이 마카롱_1.jpg'}, {'review_cafename': '카페 노란 코끼리', 'link': 'https://www.diningcode.com/profile.php?rid=hG2Zz4GSWiRs', 'imgname_123': '카페 노란 코끼리_1.jpg'}, {'review_cafename': '더빈마켓', 'link': 'https://www.diningcode.com/profile.php?rid=17B6DVXk8Th1', 'imgname_123': '더빈마켓_3.jpg'}, {'review_cafename': '파티세리 도효', 'link': 'https://www.diningcode.com/profile.php?rid=v9NoHbjYvm49', 'imgname_123': '파티세리 도효_3.jpg'}, {'review_cafename': '달타냥의커피', 'link': 'https://www.diningcode.com/profile.php?rid=YXnqKwkFaaXg', 'imgname_123': '달타냥의커피_2.jpg'}]
+Watching for file changes with StatReloader
+[14/Jul/2021 15:04:37] "POST /main/result HTTP/1.1" 200 928
+[14/Jul/2021 15:04:37] "GET /main/getImg?imgId=%EC%BD%A9%EB%B3%B6%EB%8A%94%20%EB%AA%A8%EB%B2%94%EC%8B%9C%EB%AF%BC_2.jpg HTTP/1.1" 200 253276
+[14/Jul/2021 15:04:37] "GET /main/getImg?imgId=%EC%95%84%ED%8B%80%EB%A6%AC%EC%97%90%20%ED%81%AC%EB%A0%88%ED%83%80_3.jpg HTTP/1.1" 200 252245
+[14/Jul/2021 15:04:37] "GET /main/getImg?imgId=%ED%9B%84%EC%A6%88%ED%8B%B0_1.jpg HTTP/1.1" 200 256430
+[14/Jul/2021 15:04:37] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%985%EB%B2%88%EC%B6%9C%EA%B5%AC_1.jpg HTTP/1.1" 200 288435
+[14/Jul/2021 15:04:37] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%98%20%EC%94%A8%EB%A9%98%ED%8A%B8_2.jpg HTTP/1.1" 200 224157
+Not Found: /favicon.ico
+[14/Jul/2021 15:09:39] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 15:12:19] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 15:12:45] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 15:16:00] "GET /favicon.ico HTTP/1.1" 404 2766
+[14/Jul/2021 15:16:25] "POST /main/result HTTP/1.1" 200 990
+[14/Jul/2021 15:16:25] "GET /main/getImg?imgId=%EC%95%84%EC%9D%B4%EB%8D%B4%ED%8B%B0%ED%8B%B0%EC%BB%A4%ED%94%BC%EB%9E%A9_3.jpg HTTP/1.1" 200 236234
+[14/Jul/2021 15:16:25] "GET /main/getImg?imgId=%EC%95%A4%EC%8A%A4%EC%BB%A4%ED%94%BC%ED%81%B4%EB%9F%BD_3.jpg HTTP/1.1" 200 68838
+[14/Jul/2021 15:16:25] "GET /main/getImg?imgId=%EC%97%85%EC%82%AC%EC%9D%B4%EB%93%9C%EC%BB%A4%ED%94%BC%20%20%EB%9A%9D%EC%84%AC%EC%A0%90_3.jpg HTTP/1.1" 200 184397
+[14/Jul/2021 15:16:25] "GET /main/getImg?imgId=%EC%96%B8%EB%8D%94%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8B%B0%EB%93%9C_1.jpg HTTP/1.1" 200 244228
+[14/Jul/2021 15:16:25] "GET /main/getImg?imgId=THE%20BREAD%20HOUSE_3.jpg HTTP/1.1" 200 9109
+Not Found: /favicon.ico
+[14/Jul/2021 15:19:43] "GET /favicon.ico HTTP/1.1" 404 2766
+[14/Jul/2021 15:21:13] "POST /main/result HTTP/1.1" 200 898
+[14/Jul/2021 15:21:13] "GET /main/getImg?imgId=%EC%A5%AC%EC%8B%9C%20%26%20%EC%B0%A8%EC%96%8C%20%EB%A7%88%EB%93%A4%EC%97%AD%EC%A0%90_3.jpg HTTP/1.1" 200 68675
+[14/Jul/2021 15:21:13] "GET /main/getImg?imgId=%EC%9C%A0%EB%8B%88%EB%A5%B4_3.jpg HTTP/1.1" 200 156115
+[14/Jul/2021 15:21:13] "GET /main/getImg?imgId=%EB%8D%94%EB%B2%A4%ED%8B%B0%20%EA%B0%95%EB%82%A8%EA%B5%AC%EC%B2%AD%EC%97%AD%EC%A0%90_3.jpg HTTP/1.1" 200 186254
+[14/Jul/2021 15:21:13] "GET /main/getImg?imgId=%EC%86%8C%ED%9D%AC%EB%84%A4_3.jpg HTTP/1.1" 200 126484
+[14/Jul/2021 15:21:13] "GET /main/getImg?imgId=u%20and%20me_3.jpg HTTP/1.1" 200 338229
+[14/Jul/2021 15:21:26] "POST /main/result HTTP/1.1" 200 802
+[14/Jul/2021 15:21:26] "GET /main/getImg?imgId=%EC%9C%A0%EB%8B%88%EB%A5%B4_2.jpg HTTP/1.1" 200 230048
+[14/Jul/2021 15:21:26] "GET /main/getImg?imgId=%EB%AA%A8%EB%A6%AC%ED%8B%B0%EC%95%84_2.jpg HTTP/1.1" 200 335864
+[14/Jul/2021 15:21:26] "GET /main/getImg?imgId=%EC%9C%A0%EB%8B%88%EB%A5%B4_1.jpg HTTP/1.1" 200 362660
+[14/Jul/2021 15:21:26] "GET /main/getImg?imgId=%EC%9C%A0%EB%8B%88%EB%A5%B4_3.jpg HTTP/1.1" 200 156115
+[14/Jul/2021 15:21:26] "GET /main/getImg?imgId=%EC%9D%8C%20%EB%A0%88%EC%BD%94%EB%93%9C_3.jpg HTTP/1.1" 200 399156
+[14/Jul/2021 15:21:32] "POST /main/result HTTP/1.1" 200 914
+[14/Jul/2021 15:21:32] "GET /main/getImg?imgId=%EB%8B%AC%EC%83%88%EB%8A%94%20%EB%8B%AC%EB%A7%8C%20%EC%83%9D%EA%B0%81%ED%95%9C%EB%8B%A4_1.jpg HTTP/1.1" 200 284069
+[14/Jul/2021 15:21:32] "GET /main/getImg?imgId=%EC%96%B4%EB%AE%A4%EC%A6%88%20%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C_3.jpg HTTP/1.1" 200 243501
+[14/Jul/2021 15:21:33] "GET /main/getImg?imgId=%EC%95%88%EB%85%95%EA%B3%BC%EC%9E%90%EC%A0%90_2.jpg HTTP/1.1" 200 392819
+[14/Jul/2021 15:21:33] "GET /main/getImg?imgId=%EA%B0%B8%EB%98%90%EB%A7%88%EB%A7%88_2.jpg HTTP/1.1" 200 406961
+[14/Jul/2021 15:21:33] "GET /main/getImg?imgId=VOSTOK_3.jpg HTTP/1.1" 200 402063
+[14/Jul/2021 15:21:46] "POST /main/result HTTP/1.1" 200 914
+[14/Jul/2021 15:21:46] "GET /main/getImg?imgId=%ED%85%8C%EC%9D%BC%EC%98%A4%EB%B8%8C%ED%85%8C%EC%9D%BC%EC%8A%A4_2.jpg HTTP/1.1" 200 312633
+[14/Jul/2021 15:21:46] "GET /main/getImg?imgId=%EC%BB%A4%ED%94%BC%EB%91%90_2.jpg HTTP/1.1" 200 214960
+[14/Jul/2021 15:21:46] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%98%20%EA%B7%B8%EB%A0%88%EB%8F%84_3.jpg HTTP/1.1" 200 458284
+[14/Jul/2021 15:21:46] "GET /main/getImg?imgId=%ED%95%98%EC%9D%B4%EB%84%A4%EC%8A%A4%20%EC%B9%B4%ED%8E%98%20%EB%B0%94_1.jpg HTTP/1.1" 200 222619
+[14/Jul/2021 15:21:46] "GET /main/getImg?imgId=%EB%B6%81%EC%8A%A4%EC%BF%A1%EC%8A%A4_2.jpg HTTP/1.1" 200 1638720
+Not Found: /favicon.ico
+[14/Jul/2021 15:24:57] "GET /favicon.ico HTTP/1.1" 404 2766
+[14/Jul/2021 15:25:51] "POST /main/result HTTP/1.1" 200 849
+[14/Jul/2021 15:25:51] "GET /main/getImg?imgId=%EC%BB%A4%ED%94%BC%20%EB%B2%A0%EC%8A%A4%EC%BD%94_2.jpg HTTP/1.1" 200 187281
+[14/Jul/2021 15:25:51] "GET /main/getImg?imgId=%ED%90%81%EB%8B%B9_3.jpg HTTP/1.1" 200 409857
+[14/Jul/2021 15:25:51] "GET /main/getImg?imgId=%EC%BB%A4%ED%94%BC%EB%A0%A5_2.jpg HTTP/1.1" 200 89285
+[14/Jul/2021 15:25:51] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%98%EB%8D%94%EB%B8%8C%EB%A6%BF%EC%A7%80_2.jpg HTTP/1.1" 200 146682
+[14/Jul/2021 15:25:51] "GET /main/getImg?imgId=%EC%9D%80%ED%95%98%EC%88%98%EB%8B%A4%EB%B0%A9_2.jpg HTTP/1.1" 200 62614
+[14/Jul/2021 15:26:20] "POST /main/result HTTP/1.1" 200 874
+[14/Jul/2021 15:26:20] "GET /main/getImg?imgId=%EC%BB%A4%ED%94%BC%EB%A0%A5_2.jpg HTTP/1.1" 200 89285
+[14/Jul/2021 15:26:20] "GET /main/getImg?imgId=%ED%8B%B0%EB%9D%BC%EB%A0%88%EB%AF%B8%EC%88%98_2.jpg HTTP/1.1" 200 110517
+[14/Jul/2021 15:26:20] "GET /main/getImg?imgId=%ED%97%98%EB%B8%94%EC%BB%A4%ED%94%BC_2.jpg HTTP/1.1" 200 249388
+[14/Jul/2021 15:26:20] "GET /main/getImg?imgId=%ED%8E%98%EC%9D%B4%EB%B8%8C%20%EB%B2%A0%EC%9D%B4%EC%BB%A4%EB%A6%AC_1.jpg HTTP/1.1" 200 280623
+[14/Jul/2021 15:26:20] "GET /main/getImg?imgId=%ED%95%99%EB%A6%BC%EB%8B%A4%EB%B0%A9_3.jpg HTTP/1.1" 200 335401
+Internal Server Error: /main/result
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/django/utils/datastructures.py", line 78, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'img'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/workspace/tobigs_cafeIn/main/views.py", line 19, in result
+    target = request.FILES['img'].read() # 업로드된 이미지 - read()의 결과로 바이트 인코딩된 이미지 전송
+  File "/usr/local/lib/python3.7/site-packages/django/utils/datastructures.py", line 80, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'img'
+[14/Jul/2021 15:26:53] "POST /main/result HTTP/1.1" 500 75200
+[14/Jul/2021 15:27:19] "POST /main/result HTTP/1.1" 200 864
+[14/Jul/2021 15:27:19] "GET /main/getImg?imgId=%EB%AD%89%ED%81%B4_1.jpg HTTP/1.1" 200 114580
+[14/Jul/2021 15:27:19] "GET /main/getImg?imgId=%EC%95%84%EC%9D%B4%20%EB%9D%BC%EC%9D%B4%ED%81%AC%20%EB%A7%88%EC%9A%B4%ED%8B%B4_3.jpg HTTP/1.1" 200 266895
+[14/Jul/2021 15:27:19] "GET /main/getImg?imgId=%EC%B1%B1%EC%B1%B1%EC%BC%80%EC%9D%B4%ED%81%AC_2.jpg HTTP/1.1" 200 330563
+[14/Jul/2021 15:27:19] "GET /main/getImg?imgId=%ED%98%B8%ED%98%B8%EC%BB%A4%ED%94%BC%EC%A7%91_3.jpg HTTP/1.1" 200 106681
+[14/Jul/2021 15:27:19] "GET /main/getImg?imgId=%EC%86%94%EB%A6%AC_3.jpg HTTP/1.1" 200 287291
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 14, 2021 - 14:56:36
+Django version 2.2.4, using settings 'tobigs_cafeIn.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+######## else ########
+[{'review_cafename': '후즈티', 'link': 'https://www.diningcode.com/profile.php?rid=mCaToSgSjAQ2', 'imgname_123': '후즈티_1.jpg'}, {'review_cafename': '카페5번출구', 'link': 'https://www.diningcode.com/profile.php?rid=tAIZT35mib93', 'imgname_123': '카페5번출구_1.jpg'}, {'review_cafename': '콩볶는 모범시민', 'link': 'https://www.diningcode.com/profile.php?rid=t7zGLhUM8Y2M', 'imgname_123': '콩볶는 모범시민_2.jpg'}, {'review_cafename': '아틀리에 크레타', 'link': 'https://www.diningcode.com/profile.php?rid=cigcRgx6HVCn', 'imgname_123': '아틀리에 크레타_3.jpg'}, {'review_cafename': '카페 씨멘트', 'link': 'https://www.diningcode.com/profile.php?rid=W5ceTjEf7AIs', 'imgname_123': '카페 씨멘트_2.jpg'}]
+######## else ########
+[{'review_cafename': '앤스커피클럽', 'link': 'https://www.diningcode.com/profile.php?rid=pO01g0GzmXcY', 'imgname_123': '앤스커피클럽_3.jpg'}, {'review_cafename': '언더스테이티드', 'link': 'https://www.diningcode.com/profile.php?rid=Vdu8hUalHuJP', 'imgname_123': '언더스테이티드_1.jpg'}, {'review_cafename': '업사이드커피  뚝섬점', 'link': 'https://www.diningcode.com/profile.php?rid=mew4JJBBu3ip', 'imgname_123': '업사이드커피  뚝섬점_3.jpg'}, {'review_cafename': '아이덴티티커피랩', 'link': 'https://www.diningcode.com/profile.php?rid=YivUxHaURF9A', 'imgname_123': '아이덴티티커피랩_3.jpg'}, {'review_cafename': 'THE BREAD HOUSE', 'link': 'https://www.diningcode.com/profile.php?rid=TlESxdmngkEH', 'imgname_123': 'THE BREAD HOUSE_3.jpg'}]
+######## else ########
+[{'review_cafename': '유니르', 'link': 'https://www.diningcode.com/profile.php?rid=0T5KvgfsWDht', 'imgname_123': '유니르_3.jpg'}, {'review_cafename': '더벤티 강남구청역점', 'link': 'https://www.diningcode.com/profile.php?rid=By3q38m9VQNs', 'imgname_123': '더벤티 강남구청역점_3.jpg'}, {'review_cafename': '쥬시 & 차얌 마들역점', 'link': 'https://www.diningcode.com/profile.php?rid=G1ap8Tnx3ist', 'imgname_123': '쥬시 & 차얌 마들역점_3.jpg'}, {'review_cafename': 'u and me', 'link': 'https://www.diningcode.com/profile.php?rid=b7Txa3s94pmn', 'imgname_123': 'u and me_3.jpg'}, {'review_cafename': '소희네', 'link': 'https://www.diningcode.com/profile.php?rid=GIx128EZlRwB', 'imgname_123': '소희네_3.jpg'}]
+######## else ########
+######## else ########
+[{'review_cafename': '유니르', 'link': 'https://www.diningcode.com/profile.php?rid=0T5KvgfsWDht', 'imgname_123': '유니르_2.jpg'}, {'review_cafename': '음 레코드', 'link': 'https://www.diningcode.com/profile.php?rid=wxd4aQb1kCVt', 'imgname_123': '음 레코드_3.jpg'}, {'review_cafename': '모리티아', 'link': 'https://www.diningcode.com/profile.php?rid=PNJSxycSiniz', 'imgname_123': '모리티아_2.jpg'}, {'review_cafename': '유니르', 'link': 'https://www.diningcode.com/profile.php?rid=0T5KvgfsWDht', 'imgname_123': '유니르_1.jpg'}, {'review_cafename': '유니르', 'link': 'https://www.diningcode.com/profile.php?rid=0T5KvgfsWDht', 'imgname_123': '유니르_3.jpg'}]
+[{'review_cafename': 'VOSTOK', 'link': 'https://www.diningcode.com/profile.php?rid=nZgdx0hV4dvQ', 'imgname_123': 'VOSTOK_3.jpg'}, {'review_cafename': '어뮤즈 그라운드', 'link': 'https://www.diningcode.com/profile.php?rid=udwRuoNndc3H', 'imgname_123': '어뮤즈 그라운드_3.jpg'}, {'review_cafename': '안녕과자점', 'link': 'https://www.diningcode.com/profile.php?rid=7QEepCeMmbHR', 'imgname_123': '안녕과자점_2.jpg'}, {'review_cafename': '달새는 달만 생각한다', 'link': 'https://www.diningcode.com/profile.php?rid=4RR9UxQwDVec', 'imgname_123': '달새는 달만 생각한다_1.jpg'}, {'review_cafename': '갸또마마', 'link': 'https://www.diningcode.com/profile.php?rid=PtGFAJsq43W8', 'imgname_123': '갸또마마_2.jpg'}]
+######## else ########
+[{'review_cafename': '북스쿡스', 'link': 'https://www.diningcode.com/profile.php?rid=vQBhPfcwf65p', 'imgname_123': '북스쿡스_2.jpg'}, {'review_cafename': '커피두', 'link': 'https://www.diningcode.com/profile.php?rid=V23a6CNGwu9i', 'imgname_123': '커피두_2.jpg'}, {'review_cafename': '하이네스 카페 바', 'link': 'https://www.diningcode.com/profile.php?rid=sjTwjqFcXQh0', 'imgname_123': '하이네스 카페 바_1.jpg'}, {'review_cafename': '테일오브테일스', 'link': 'https://www.diningcode.com/profile.php?rid=dGniJoTZJBHv', 'imgname_123': '테일오브테일스_2.jpg'}, {'review_cafename': '카페 그레도', 'link': 'https://www.diningcode.com/profile.php?rid=hnvNqS1akzsF', 'imgname_123': '카페 그레도_3.jpg'}]
+######## else ########
+[{'review_cafename': '유니르', 'link': 'https://www.diningcode.com/profile.php?rid=0T5KvgfsWDht', 'imgname_123': '유니르_2.jpg'}, {'review_cafename': '음 레코드', 'link': 'https://www.diningcode.com/profile.php?rid=wxd4aQb1kCVt', 'imgname_123': '음 레코드_3.jpg'}, {'review_cafename': '모리티아', 'link': 'https://www.diningcode.com/profile.php?rid=PNJSxycSiniz', 'imgname_123': '모리티아_2.jpg'}, {'review_cafename': '유니르', 'link': 'https://www.diningcode.com/profile.php?rid=0T5KvgfsWDht', 'imgname_123': '유니르_1.jpg'}, {'review_cafename': '유니르', 'link': 'https://www.diningcode.com/profile.php?rid=0T5KvgfsWDht', 'imgname_123': '유니르_3.jpg'}]
+######## else ########
+[{'review_cafename': '커피베스코', 'link': 'https://www.diningcode.com/profile.php?rid=V00VxpTTiMQg', 'imgname_123': '커피 베스코_2.jpg'}, {'review_cafename': '퐁당', 'link': 'https://www.diningcode.com/profile.php?rid=0bGwbxR4OHcG', 'imgname_123': '퐁당_3.jpg'}, {'review_cafename': '커피력', 'link': 'https://www.diningcode.com/profile.php?rid=5ceDc4To7rRG', 'imgname_123': '커피력_2.jpg'}, {'review_cafename': '카페더브릿지', 'link': 'https://www.diningcode.com/profile.php?rid=bHR9cPVMsjNs', 'imgname_123': '카페더브릿지_2.jpg'}, {'review_cafename': '은하수다방', 'link': 'https://www.diningcode.com/profile.php?rid=xXmwKb3gsj7e', 'imgname_123': '은하수다방_2.jpg'}]
+######## else ########
+[{'review_cafename': '험블커피', 'link': 'https://www.diningcode.com/profile.php?rid=8BLwn6lmmXzS', 'imgname_123': '험블커피_2.jpg'}, {'review_cafename': '커피력', 'link': 'https://www.diningcode.com/profile.php?rid=5ceDc4To7rRG', 'imgname_123': '커피력_2.jpg'}, {'review_cafename': '학림다방', 'link': 'https://www.diningcode.com/profile.php?rid=KcMqNH9UgTPb', 'imgname_123': '학림다방_3.jpg'}, {'review_cafename': '페이브 베이커리', 'link': 'https://www.diningcode.com/profile.php?rid=2wsa4Fk7QrGw', 'imgname_123': '페이브 베이커리_1.jpg'}, {'review_cafename': '티라레미수', 'link': 'https://www.diningcode.com/profile.php?rid=GfPoh2uA0fWZ', 'imgname_123': '티라레미수_2.jpg'}]
+######## else ########
+[{'review_cafename': '챱챱케이크', 'link': 'https://www.diningcode.com/profile.php?rid=5jGtwuDbJA2x', 'imgname_123': '챱챱케이크_2.jpg'}, {'review_cafename': '뭉클', 'link': 'https://www.diningcode.com/profile.php?rid=mmZvlHjgjxwf', 'imgname_123': '뭉클_1.jpg'}, {'review_cafename': '아이 라이크 마운틴', 'link': 'https://www.diningcode.com/profile.php?rid=dl3q8GKlfRcM', 'imgname_123': '아이 라이크 마운틴_3.jpg'}, {'review_cafename': '호호커피집', 'link': 'https://www.diningcode.com/profile.php?rid=v420rXPnGE0R', 'imgname_123': '호호커피집_3.jpg'}, {'review_cafename': '솔리', 'link': 'https://www.diningcode.com/profile.php?rid=il2YeNAdPRAU', 'imgname_123': '솔리_3.jpg'}]
+######## else ########
+[{'review_cafename': '험블커피', 'link': 'https://www.diningcode.com/profile.php?rid=8BLwn6lmmXzS', 'imgname_123': '험블커피_2.jpg'}, {'review_cafename': '커피력', 'link': 'https://www.diningcode.com/profile.php?rid=5ceDc4To7rRG', 'imgname_123': '커피력_2.jpg'}, {'review_cafename': '학림다방', 'link': 'https://www.diningcode.com/profile.php?rid=KcMqNH9UgTPb', 'imgname_123': '학림다방_3.jpg'}, {'review_cafename': '페이브 베이커리', 'link': 'https://www.diningcode.com/profile.php?rid=2wsa4Fk7QrGw', 'imgname_123': '페이브 베이커리_1.jpg'}, {'review_cafename': '티라레미수', 'link': 'https://www.diningcode.com/profile.php?rid=GfPoh2uA0fWZ', 'imgname_123': '티라레미수_2.jpg'}][14/Jul/2021 15:31:16] "POST /main/result HTTP/1.1" 200 872
+[14/Jul/2021 15:31:16] "GET /main/getImg?imgId=%ED%94%84%EB%A0%88%EC%A7%80%20%EC%BB%A4%ED%94%BC_2.jpg HTTP/1.1" 200 176012
+[14/Jul/2021 15:31:16] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%98%20%EA%B3%A0%EB%A7%88%EC%9B%8C%EB%8A%98_1.jpg HTTP/1.1" 200 132924
+[14/Jul/2021 15:31:16] "GET /main/getImg?imgId=KANDH%20Coffee%20Lab_1.jpg HTTP/1.1" 200 121118
+[14/Jul/2021 15:31:16] "GET /main/getImg?imgId=%EC%97%98%EA%B0%80%EC%BB%A4%ED%94%BC_1.jpg HTTP/1.1" 200 180359
+[14/Jul/2021 15:31:16] "GET /main/getImg?imgId=%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A4_2.jpg HTTP/1.1" 200 396549
+[14/Jul/2021 15:32:44] "POST /main/result HTTP/1.1" 200 910
+[14/Jul/2021 15:32:44] "GET /main/getImg?imgId=%EB%B9%85%EC%BB%B5_2.jpg HTTP/1.1" 200 379958
+[14/Jul/2021 15:32:44] "GET /main/getImg?imgId=%EB%B8%8C%EC%9D%B4%EC%B9%B4%ED%8E%98%20%ED%98%84%EB%8C%80%EB%B0%B1%ED%99%94%EC%A0%90%EB%AA%A9%EB%8F%99%EC%A0%90_3.jpg HTTP/1.1" 200 12187
+[14/Jul/2021 15:32:44] "GET /main/getImg?imgId=%EC%98%A4%EC%84%9C%EB%8F%85%EC%8A%A4_3.jpg HTTP/1.1" 200 287916
+[14/Jul/2021 15:32:44] "GET /main/getImg?imgId=%EA%B0%9C%EC%9D%B8%EC%B7%A8%ED%96%A5_2.jpg HTTP/1.1" 200 205131
+[14/Jul/2021 15:32:44] "GET /main/getImg?imgId=%ED%94%BC%ED%84%B0%ED%8C%A8%ED%8A%B8_3.jpg HTTP/1.1" 200 377335
+[14/Jul/2021 15:38:21] "POST /main/result HTTP/1.1" 200 902
+[14/Jul/2021 15:38:21] "GET /main/getImg?imgId=%EC%8B%9C%EC%9B%94%EC%9D%98%EA%B3%B0%EC%BB%A4%ED%94%BC%EA%B3%B5%EC%9E%A5_3.jpg HTTP/1.1" 200 97281
+[14/Jul/2021 15:38:21] "GET /main/getImg?imgId=%EC%BB%A4%ED%94%BC%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EC%8F%98_1.jpg HTTP/1.1" 200 274666
+[14/Jul/2021 15:38:21] "GET /main/getImg?imgId=%ED%99%94%EC%9D%B4%ED%8A%B8%20%EC%BB%A4%ED%94%BC_3.jpg HTTP/1.1" 200 170704
+[14/Jul/2021 15:38:21] "GET /main/getImg?imgId=%EB%A1%9C%EC%A7%80%EC%BB%A4%ED%94%BC_3.jpg HTTP/1.1" 200 141390
+Internal Server Error: /main/getImg
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/workspace/tobigs_cafeIn/main/views.py", line 55, in getImg
+    img = open("main/model/img_final/" + request.GET["imgId"], 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: "main/model/img_final/one day's cup_2.jpg"
+[14/Jul/2021 15:38:21] "GET /main/getImg?imgId=one%20day%27s%20cup_2.jpg HTTP/1.1" 500 63990
+[14/Jul/2021 15:40:00] "POST /main/result HTTP/1.1" 200 912
+[14/Jul/2021 15:40:00] "GET /main/getImg?imgId=%EB%8B%AC%EB%AA%A8%ED%89%81%EC%9D%B4%20%EB%A7%88%EC%B9%B4%EB%A1%B1_1.jpg HTTP/1.1" 200 286347
+[14/Jul/2021 15:40:00] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%98%20%EB%85%B8%EB%9E%80%20%EC%BD%94%EB%81%BC%EB%A6%AC_1.jpg HTTP/1.1" 200 265942
+[14/Jul/2021 15:40:00] "GET /main/getImg?imgId=%EB%8D%94%EB%B9%88%EB%A7%88%EC%BC%93_3.jpg HTTP/1.1" 200 289667
+[14/Jul/2021 15:40:00] "GET /main/getImg?imgId=MND%20COFFEE_2.jpg HTTP/1.1" 200 305238
+[14/Jul/2021 15:40:00] "GET /main/getImg?imgId=%ED%8C%8C%ED%8B%B0%EC%84%B8%EB%A6%AC%20%EB%8F%84%ED%9A%A8_3.jpg HTTP/1.1" 200 309704
+Not Found: /favicon.ico
+[14/Jul/2021 15:43:13] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 15:43:24] "GET /favicon.ico HTTP/1.1" 404 2766
+[14/Jul/2021 15:48:06] "POST /main/result HTTP/1.1" 200 890
+[14/Jul/2021 15:48:07] "GET /main/getImg?imgId=%EC%BD%A9%EC%B9%B4%ED%8E%98%20%EC%97%B0%EB%82%A8%EC%A0%90_3.jpg HTTP/1.1" 200 321635
+[14/Jul/2021 15:48:07] "GET /main/getImg?imgId=%EB%A7%88%EB%8B%B9%20%ED%94%8C%EB%9D%BC%EC%9B%8C%20%EC%B9%B4%ED%8E%98_3.jpg HTTP/1.1" 200 98600
+[14/Jul/2021 15:48:07] "GET /main/getImg?imgId=%EB%9D%BD%EB%96%BC%EC%8A%A4%ED%94%BC%EB%A6%BF_1.jpg HTTP/1.1" 200 317527
+[14/Jul/2021 15:48:07] "GET /main/getImg?imgId=%EC%8B%9C%EC%8B%9C_1.jpg HTTP/1.1" 200 371046
+[14/Jul/2021 15:48:07] "GET /main/getImg?imgId=%EB%AF%B8%EC%95%94%EB%AF%B8%EC%95%94_3.jpg HTTP/1.1" 200 184646
+[14/Jul/2021 15:59:51] "POST /main/result HTTP/1.1" 200 848
+[14/Jul/2021 15:59:51] "GET /main/getImg?imgId=%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%82%98%EC%9D%B8_1.jpg HTTP/1.1" 200 71222
+[14/Jul/2021 15:59:51] "GET /main/getImg?imgId=%EC%98%A4%EB%B2%84%ED%8A%B8_3.jpg HTTP/1.1" 200 134711
+[14/Jul/2021 15:59:51] "GET /main/getImg?imgId=%EC%9D%B4%EB%94%94%EC%95%BC%EC%BB%A4%ED%94%BC%EB%9E%A9_3.jpg HTTP/1.1" 200 280871
+[14/Jul/2021 15:59:51] "GET /main/getImg?imgId=%EC%8B%9C%EC%98%A8_1.jpg HTTP/1.1" 200 132394
+[14/Jul/2021 15:59:52] "GET /main/getImg?imgId=%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80_2.jpg HTTP/1.1" 200 274255
+Not Found: /favicon.ico
+[14/Jul/2021 16:01:31] "GET /favicon.ico HTTP/1.1" 404 2766
+[14/Jul/2021 16:08:09] "POST /main/result HTTP/1.1" 200 1002
+[14/Jul/2021 16:08:09] "GET /main/getImg?imgId=%EC%84%B1%EA%B3%BD%EB%A7%88%EC%9D%84%EC%82%BC%EC%B8%B5%EA%B9%8C%ED%8E%98_3.jpg HTTP/1.1" 200 68955
+[14/Jul/2021 16:08:09] "GET /main/getImg?imgId=%ED%8C%9C%EC%8A%A4%ED%94%84%EB%A7%81%EC%8A%A4%20%EC%B9%B4%ED%8E%98_2.jpg HTTP/1.1" 200 381741
+[14/Jul/2021 16:08:09] "GET /main/getImg?imgId=%EB%A3%A8%EC%95%84%ED%9D%90108_1.jpg HTTP/1.1" 200 200766
+[14/Jul/2021 16:08:09] "GET /main/getImg?imgId=%ED%9B%88%EA%B3%A0%EB%A7%81%EA%B3%A0%EB%B8%8C%EB%A0%88%EB%93%9C_1.jpg HTTP/1.1" 200 172230
+[14/Jul/2021 16:08:09] "GET /main/getImg?imgId=%EB%9D%BC%EB%9D%BC%EB%B8%8C%EB%A0%88%EB%93%9C%20%ED%95%9C%EB%82%A8%EC%A0%90_3.jpg HTTP/1.1" 200 149869
+[14/Jul/2021 16:15:39] "POST /main/result HTTP/1.1" 200 952
+[14/Jul/2021 16:15:39] "GET /main/getImg?imgId=%EC%98%A4%EC%9A%B0%EC%95%BC%20%EC%97%90%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C%20%EB%B0%94_1.jpg HTTP/1.1" 200 149718
+[14/Jul/2021 16:15:39] "GET /main/getImg?imgId=%ED%83%9C%EA%B8%B0%EC%BB%A4%ED%94%BC_1.jpg HTTP/1.1" 200 213234
+[14/Jul/2021 16:15:40] "GET /main/getImg?imgId=%EC%9D%B4%EC%B8%B5%EC%B0%BD%EA%B0%80_1.jpg HTTP/1.1" 200 53639
+[14/Jul/2021 16:15:40] "GET /main/getImg?imgId=%EC%98%A4%EC%9A%B0%EC%95%BC%20%EC%97%90%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C%20%EB%B0%94_2.jpg HTTP/1.1" 200 137591
+[14/Jul/2021 16:15:40] "GET /main/getImg?imgId=%EB%9D%BC%EB%A7%88%EB%85%B8_1.jpg HTTP/1.1" 200 163732
+Not Found: /favicon.ico
+[14/Jul/2021 16:27:27] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 16:31:26] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 16:31:35] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 16:31:55] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 16:31:59] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 16:32:07] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 16:32:19] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 16:32:24] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 16:36:38] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 16:38:11] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 16:51:54] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 16:56:03] "GET /favicon.ico HTTP/1.1" 404 2766
+[14/Jul/2021 16:57:19] "POST /main/result HTTP/1.1" 200 985
+[14/Jul/2021 16:57:19] "GET /main/getImg?imgId=%EC%97%90%EC%9D%B4%EB%AF%B8%EC%8A%A4%20%EC%BB%A4%ED%94%BC_3.jpg HTTP/1.1" 200 152814
+[14/Jul/2021 16:57:19] "GET /main/getImg?imgId=%EC%9C%A0%EC%96%B4%ED%99%88%20%EC%BB%A4%ED%94%BC%EB%A1%9C%EC%8A%A4%ED%84%B0%EC%8A%A4_1.jpg HTTP/1.1" 200 392064
+[14/Jul/2021 16:57:19] "GET /main/getImg?imgId=%ED%81%B4%EB%A6%BD%EC%97%90%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C%20%EB%8A%A5%EB%8F%99%EC%A0%90_1.jpg HTTP/1.1" 200 159434
+[14/Jul/2021 16:57:19] "GET /main/getImg?imgId=%EB%B6%84%EB%8D%94%ED%82%A8%ED%8A%B8_1.jpg HTTP/1.1" 200 269275
+[14/Jul/2021 16:57:19] "GET /main/getImg?imgId=%EC%BB%A4%ED%94%BC%EA%BE%BC_1.jpg HTTP/1.1" 200 3924483
+[14/Jul/2021 16:58:56] "POST /main/result HTTP/1.1" 200 814
+[14/Jul/2021 16:58:56] "GET /main/getImg?imgId=%EB%9D%BC%EC%9C%88_2.jpg HTTP/1.1" 200 267231
+[14/Jul/2021 16:58:56] "GET /main/getImg?imgId=%EC%BC%80%EC%9D%B5%EB%8B%A4%EB%B0%A9_2.jpg HTTP/1.1" 200 208802
+[14/Jul/2021 16:58:57] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%98%20%EB%9E%8C%EB%B2%A0%EB%A6%AC_2.jpg HTTP/1.1" 200 237188
+[14/Jul/2021 16:58:57] "GET /main/getImg?imgId=%EC%84%9C%EC%9A%B8%EC%BB%A4%ED%94%BC_1.jpg HTTP/1.1" 200 480208
+[14/Jul/2021 16:58:57] "GET /main/getImg?imgId=%EC%8B%9D%EB%AC%BC%ED%95%99_3.jpg HTTP/1.1" 200 343252
+
+######## else ########
+[{'review_cafename': '카페 고마워늘', 'link': 'https://www.diningcode.com/profile.php?rid=Tp67JZhcb0F7', 'imgname_123': '카페 고마워늘_1.jpg'}, {'review_cafename': '프레지 커피', 'link': 'https://www.diningcode.com/profile.php?rid=qWrfv9M85d8a', 'imgname_123': '프레지 커피_2.jpg'}, {'review_cafename': '엘가커피', 'link': 'https://www.diningcode.com/profile.php?rid=XFjVOombgSUb', 'imgname_123': '엘가커피_1.jpg'}, {'review_cafename': '그레이스톤', 'link': 'https://www.diningcode.com/profile.php?rid=4nuOnodBgyyX', 'imgname_123': '그레이스톤_2.jpg'}, {'review_cafename': 'KANDH Coffee Lab', 'link': 'https://www.diningcode.com/profile.php?rid=jvUN6Wz2XvG1', 'imgname_123': 'KANDH Coffee Lab_1.jpg'}]
+######## else ########
+[{'review_cafename': '오서독스', 'link': 'https://www.diningcode.com/profile.php?rid=2KUrN2OAhSdk', 'imgname_123': '오서독스_3.jpg'}, {'review_cafename': '개인취향', 'link': 'https://www.diningcode.com/profile.php?rid=tWfOXQxIfEQm', 'imgname_123': '개인취향_2.jpg'}, {'review_cafename': '브이카페 현대백화점목동점', 'link': 'https://www.diningcode.com/profile.php?rid=J0SPWM68k9M8', 'imgname_123': '브이카페 현대백화점목동점_3.jpg'}, {'review_cafename': '피터패트', 'link': 'https://www.diningcode.com/profile.php?rid=fSinC5pIKCPH', 'imgname_123': '피터패트_3.jpg'}, {'review_cafename': '빅컵', 'link': 'https://www.diningcode.com/profile.php?rid=bAyKpBZTvQnL', 'imgname_123': '빅컵_2.jpg'}]
+######## else ########
+[{'review_cafename': "one day's cup", 'link': 'https://www.diningcode.com/profile.php?rid=A7eSLTCYjwM3', 'imgname_123': "one day's cup_2.jpg"}, {'review_cafename': '커피팩토리 쏘', 'link': 'https://www.diningcode.com/profile.php?rid=CchvhAbeWlE8', 'imgname_123': '커피팩토리 쏘_1.jpg'}, {'review_cafename': '로지커피', 'link': 'https://www.diningcode.com/profile.php?rid=gQVxGcoMCdD1', 'imgname_123': '로지커피_3.jpg'}, {'review_cafename': '화이트 커피', 'link': 'https://www.diningcode.com/profile.php?rid=M2DsX18UsGgz', 'imgname_123': '화이트 커피_3.jpg'}, {'review_cafename': '시월의곰커피공장', 'link': 'https://www.diningcode.com/profile.php?rid=67z9mz3WYnyu', 'imgname_123': '시월의곰커피공장_3.jpg'}]
+######## else ########
+[{'review_cafename': 'MND COFFEE', 'link': 'https://www.diningcode.com/profile.php?rid=9GuuoBClaQ9X', 'imgname_123': 'MND COFFEE_2.jpg'}, {'review_cafename': '달모퉁이 마카롱', 'link': 'https://www.diningcode.com/profile.php?rid=CrnOHU4AplZZ', 'imgname_123': '달모퉁이 마카롱_1.jpg'}, {'review_cafename': '카페 노란 코끼리', 'link': 'https://www.diningcode.com/profile.php?rid=hG2Zz4GSWiRs', 'imgname_123': '카페 노란 코끼리_1.jpg'}, {'review_cafename': '더빈마켓', 'link': 'https://www.diningcode.com/profile.php?rid=17B6DVXk8Th1', 'imgname_123': '더빈마켓_3.jpg'}, {'review_cafename': '파티세리 도효', 'link': 'https://www.diningcode.com/profile.php?rid=v9NoHbjYvm49', 'imgname_123': '파티세리 도효_3.jpg'}]
+######## else ########
+[{'review_cafename': '콩카페 연남점', 'link': 'https://www.diningcode.com/profile.php?rid=4TTDCi9rNzlg', 'imgname_123': '콩카페 연남점_3.jpg'}, {'review_cafename': '미암미암', 'link': 'https://www.diningcode.com/profile.php?rid=2DCh9DGC4z4T', 'imgname_123': '미암미암_3.jpg'}, {'review_cafename': '마당 플라워 카페', 'link': 'https://www.diningcode.com/profile.php?rid=JYIQIpntJOWF', 'imgname_123': '마당 플라워 카페_3.jpg'}, {'review_cafename': '락떼스피릿', 'link': 'https://www.diningcode.com/profile.php?rid=nuRcoCq4m5xD', 'imgname_123': '락떼스피릿_1.jpg'}, {'review_cafename': '시시', 'link': 'https://www.diningcode.com/profile.php?rid=g9oaZCOUEbPK', 'imgname_123': '시시_1.jpg'}]
+######## else ########
+[{'review_cafename': '클라우드나인', 'link': 'https://www.diningcode.com/profile.php?rid=9RKGgL9YNY30', 'imgname_123': '클라우드나인_1.jpg'}, {'review_cafename': '이디야커피랩', 'link': 'https://www.diningcode.com/profile.php?rid=L7F5DBCwBmTj', 'imgname_123': '이디야커피랩_3.jpg'}, {'review_cafename': '시온', 'link': 'https://www.diningcode.com/profile.php?rid=YtxT8bcuZqCP', 'imgname_123': '시온_1.jpg'}, {'review_cafename': '스토리지', 'link': 'https://www.diningcode.com/profile.php?rid=jOoOZgIDJEHy', 'imgname_123': '스토리지_2.jpg'}, {'review_cafename': '오버트', 'link': 'https://www.diningcode.com/profile.php?rid=lPNfo9ndtyUf', 'imgname_123': '오버트_3.jpg'}]
+######## else ########
+[{'review_cafename': '라라브레드 한남점', 'link': 'https://www.diningcode.com/profile.php?rid=wbmGVMzXnt69', 'imgname_123': '라라브레드 한남점_3.jpg'}, {'review_cafename': '훈고링고브레드', 'link': 'https://www.diningcode.com/profile.php?rid=YKPLFEjtimAg', 'imgname_123': '훈고링고브레드_1.jpg'}, {'review_cafename': '팜스프링스 카페', 'link': 'https://www.diningcode.com/profile.php?rid=PbLLzUWuzoZE', 'imgname_123': '팜스프링스 카페_2.jpg'}, {'review_cafename': '성곽마을삼층까페', 'link': 'https://www.diningcode.com/profile.php?rid=2cHiWwOytq43', 'imgname_123': '성곽마을삼층까페_3.jpg'}, {'review_cafename': '루아흐108', 'link': 'https://www.diningcode.com/profile.php?rid=GyetVgzsDALE', 'imgname_123': '루아흐108_1.jpg'}]
+######## else ########
+[{'review_cafename': '태기커피', 'link': 'https://www.diningcode.com/profile.php?rid=z1h6mjfaJCwK', 'imgname_123': '태기커피_1.jpg'}, {'review_cafename': '오우야 에스프레소 바', 'link': 'https://www.diningcode.com/profile.php?rid=arAjpy83KOKE', 'imgname_123': '오우야 에스프레소 바_1.jpg'}, {'review_cafename': '라마노', 'link': 'https://www.diningcode.com/profile.php?rid=M7iPvC3LsmeP', 'imgname_123': '라마노_1.jpg'}, {'review_cafename': '이층창가', 'link': 'https://www.diningcode.com/profile.php?rid=WbUm0nI2fGgI', 'imgname_123': '이층창가_1.jpg'}, {'review_cafename': '오우야 에스프레소 바', 'link': 'https://www.diningcode.com/profile.php?rid=arAjpy83KOKE', 'imgname_123': '오우야 에스프레소 바_2.jpg'}]
+######## else ########
+[{'review_cafename': '유어홈 커피로스터스', 'link': 'https://www.diningcode.com/profile.php?rid=VPxeR7uFXrFz', 'imgname_123': '유어홈 커피로스터스_1.jpg'}, {'review_cafename': '클립에스프레소 능동점', 'link': 'https://www.diningcode.com/profile.php?rid=k0AR31a1mokT', 'imgname_123': '클립에스프레소 능동점_1.jpg'}, {'review_cafename': '분더킨트', 'link': 'https://www.diningcode.com/profile.php?rid=0Tt9cTtlK5VU', 'imgname_123': '분더킨트_1.jpg'}, {'review_cafename': '에이미스커피', 'link': 'https://www.diningcode.com/profile.php?rid=AlAGvCElxfSk', 'imgname_123': '에이미스 커피_3.jpg'}, {'review_cafename': '커피꾼', 'link': 'https://www.diningcode.com/profile.php?rid=D0TPWxDnBjUS', 'imgname_123': '커피꾼_1.jpg'}]
+######## else ########
+[{'review_cafename': '라윈', 'link': 'https://www.diningcode.com/profile.php?rid=woYybTJuSIuF', 'imgname_123': '라윈_2.jpg'}, {'review_cafename': '서울커피', 'link': 'https://www.diningcode.com/profile.php?rid=4IncxffzL3kO', 'imgname_123': '서울커피_1.jpg'}, {'review_cafename': '카페 람베리', 'link': 'https://www.diningcode.com/profile.php?rid=088solbRmWq1', 'imgname_123': '카페 람베리_2.jpg'}, {'review_cafename': '케익다방', 'link': 'https://www.diningcode.com/profile.php?rid=FEyf8Xtav2FU', 'imgname_123': '케익다방_2.jpg'}, {'review_cafename': '식물학', 'link': 'https://www.diningcode.com/profile.php?rid=9PokSXIqwt0t', 'imgname_123': '식물학_3.jpg'}]
+######## else ########
+[{'review_cafename': '후식당', 'link': 'https://www.diningcode.com/profile.php?rid=AlkawwsxekUG', 'imgname_123': '후식당_3.jpg'}, {'review_cafename': '앤드커피랩 한남점', 'link': 'https://www.diningcode.com/profile.php?rid=Bugh3o659f7W', 'imgname_123': '앤드커피랩 한남점_2.jpg'}, {'review_cafename': '책발전소 위례', 'link': 'https://www.diningcode.com/profile.php?rid=WwILpe7B0Tzq', 'imgname_123': '책발전소 위례_2.jpg'}, {'review_cafename': '블랙커', 'link': 'https://www.diningcode.com/profile.php?rid=SAHMmLwy6hlA', 'imgname_123': '블랙커_1.jpg'}, {'review_cafename': '라키나토', 'link': 'https://www.diningcode.com/profile.php?rid=mPW78dJ6XLgD', 'imgname_123': '라키나토_2.jpg'}][14/Jul/2021 17:00:45] "POST /main/result HTTP/1.1" 200 888
+[14/Jul/2021 17:00:45] "GET /main/getImg?imgId=%ED%9B%84%EC%8B%9D%EB%8B%B9_3.jpg HTTP/1.1" 200 588373
+[14/Jul/2021 17:00:45] "GET /main/getImg?imgId=%EB%B8%94%EB%9E%99%EC%BB%A4_1.jpg HTTP/1.1" 200 114607
+[14/Jul/2021 17:00:45] "GET /main/getImg?imgId=%EC%B1%85%EB%B0%9C%EC%A0%84%EC%86%8C%20%EC%9C%84%EB%A1%80_2.jpg HTTP/1.1" 200 271795
+[14/Jul/2021 17:00:45] "GET /main/getImg?imgId=%EB%9D%BC%ED%82%A4%EB%82%98%ED%86%A0_2.jpg HTTP/1.1" 200 418895
+[14/Jul/2021 17:00:45] "GET /main/getImg?imgId=%EC%95%A4%EB%93%9C%EC%BB%A4%ED%94%BC%EB%9E%A9%20%ED%95%9C%EB%82%A8%EC%A0%90_2.jpg HTTP/1.1" 200 402194
+[14/Jul/2021 17:01:56] "POST /main/result HTTP/1.1" 200 874
+[14/Jul/2021 17:01:56] "GET /main/getImg?imgId=%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80_3.jpg HTTP/1.1" 200 246205
+[14/Jul/2021 17:01:56] "GET /main/getImg?imgId=%EB%8D%94%EC%B9%B4%ED%8E%98_2.jpg HTTP/1.1" 200 210284
+[14/Jul/2021 17:01:56] "GET /main/getImg?imgId=%ED%98%B8%EB%86%80%EB%A3%B0%EB%A3%A8_2.jpg HTTP/1.1" 200 265504
+[14/Jul/2021 17:01:56] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%98%20%EB%94%94%EC%96%B4%EB%A6%AC%EC%8A%A4%ED%8A%B8_1.jpg HTTP/1.1" 200 370974
+[14/Jul/2021 17:01:56] "GET /main/getImg?imgId=%EB%A7%A4%EB%A8%B8%EB%93%9C%EC%BB%A4%ED%94%BC_3.jpg HTTP/1.1" 200 141646
+[14/Jul/2021 17:02:06] "POST /main/result HTTP/1.1" 200 984
+[14/Jul/2021 17:02:06] "GET /main/getImg?imgId=%EB%82%AE%EB%8F%84%EA%B9%A8%EB%B9%84%20%EB%B0%A4%EB%8F%84%EA%B9%A8%EB%B9%84_3.jpg HTTP/1.1" 200 230242
+[14/Jul/2021 17:02:06] "GET /main/getImg?imgId=%EC%BA%A0%ED%8D%BC%EC%8A%A4_3.jpg HTTP/1.1" 200 11016
+[14/Jul/2021 17:02:07] "GET /main/getImg?imgId=%ED%85%8C%EC%9D%B4%ED%81%AC%EC%95%84%EC%9B%83%EB%93%9C%EB%A1%9C%EC%9E%89_1.jpg HTTP/1.1" 200 287769
+[14/Jul/2021 17:02:07] "GET /main/getImg?imgId=%EB%AA%A8%EB%82%98%EB%93%9C%20%EC%BB%A4%ED%94%BC%EB%A1%9C%EC%8A%A4%ED%84%B0%EC%8A%A4_3.jpg HTTP/1.1" 200 131257
+[14/Jul/2021 17:02:07] "GET /main/getImg?imgId=%ED%95%98%EC%9D%B4%EB%8D%B0%EC%96%B4_1.jpg HTTP/1.1" 200 309475
+[14/Jul/2021 17:05:26] "POST /main/result HTTP/1.1" 200 886
+[14/Jul/2021 17:05:27] "GET /main/getImg?imgId=%EC%83%8C%EB%93%9C%EC%95%A4_3.jpg HTTP/1.1" 200 165985
+[14/Jul/2021 17:05:27] "GET /main/getImg?imgId=%EB%A7%88%ED%95%91%ED%8C%8C_2.jpg HTTP/1.1" 200 178118
+[14/Jul/2021 17:05:27] "GET /main/getImg?imgId=%EC%BF%A0%EC%98%A4%EB%A0%88%20%EC%97%90%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C_2.jpg HTTP/1.1" 200 243142
+[14/Jul/2021 17:05:27] "GET /main/getImg?imgId=%EB%AC%B4%EC%A7%84%EC%9E%A5_2.jpg HTTP/1.1" 200 296801
+[14/Jul/2021 17:05:27] "GET /main/getImg?imgId=%ED%8C%8C%EC%95%84%EB%9E%8C%ED%8B%B0%ED%95%98%EC%9A%B0%EC%8A%A4_3.jpg HTTP/1.1" 200 181973
+[14/Jul/2021 17:06:44] "POST /main/result HTTP/1.1" 200 848
+[14/Jul/2021 17:06:44] "GET /main/getImg?imgId=%EC%A5%AC%EC%8A%A4%ED%8C%A9%ED%86%A0%EB%A6%AC_1.jpg HTTP/1.1" 200 137497
+[14/Jul/2021 17:06:44] "GET /main/getImg?imgId=%ED%8F%AC%EC%8A%A4%ED%84%B0%EC%84%9C%EC%9A%B8_1.jpg HTTP/1.1" 200 325531
+[14/Jul/2021 17:06:44] "GET /main/getImg?imgId=%EC%9C%A0%EB%8B%88%EB%A5%B4_3.jpg HTTP/1.1" 200 156115
+[14/Jul/2021 17:06:44] "GET /main/getImg?imgId=%EC%9C%A0%EB%8B%88%EB%A5%B4_1.jpg HTTP/1.1" 200 362660
+[14/Jul/2021 17:06:44] "GET /main/getImg?imgId=%EC%97%90%ED%94%84%EC%8A%A4%ED%86%A0%EB%A6%AC_2.jpg HTTP/1.1" 200 482708
+Not Found: /favicon.ico
+[14/Jul/2021 17:15:01] "GET /favicon.ico HTTP/1.1" 404 2766
+[14/Jul/2021 17:15:22] "POST /main/result HTTP/1.1" 200 911
+[14/Jul/2021 17:15:22] "GET /main/getImg?imgId=%EC%BB%A4%ED%94%BC%20%EB%B2%A0%EC%8A%A4%EC%BD%94_3.jpg HTTP/1.1" 200 150548
+[14/Jul/2021 17:15:22] "GET /main/getImg?imgId=%ED%8F%AC%EB%B9%84%20%EC%9A%A9%EC%82%B0_3.jpg HTTP/1.1" 200 10591
+[14/Jul/2021 17:15:22] "GET /main/getImg?imgId=%EC%95%A4%ED%8A%B8%EB%9F%AC%EC%82%AC%EC%9D%B4%ED%8A%B8_2.jpg HTTP/1.1" 200 271611
+[14/Jul/2021 17:15:22] "GET /main/getImg?imgId=%EC%95%A4%ED%8A%B8%EB%9F%AC%EC%82%AC%EC%9D%B4%ED%8A%B8_1.jpg HTTP/1.1" 200 351156
+[14/Jul/2021 17:15:22] "GET /main/getImg?imgId=%EC%9D%80%ED%95%98%EC%88%98%EB%8B%A4%EB%B0%A9_2.jpg HTTP/1.1" 200 62614
+Not Found: /favicon.ico
+[14/Jul/2021 17:15:39] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 17:15:53] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 17:16:23] "GET /favicon.ico HTTP/1.1" 404 2766
+[14/Jul/2021 17:16:40] "POST /main/result HTTP/1.1" 200 836
+[14/Jul/2021 17:16:40] "GET /main/getImg?imgId=%EB%B0%80%EB%A3%A8%EC%95%A4%EB%9D%BC%EB%96%BC_3.jpg HTTP/1.1" 200 93444
+[14/Jul/2021 17:16:40] "GET /main/getImg?imgId=%EA%B3%B5%EA%B0%84%EB%8B%A4%EB%B0%98%EC%82%AC_2.jpg HTTP/1.1" 200 120788
+[14/Jul/2021 17:16:40] "GET /main/getImg?imgId=%EB%B0%94%EC%9D%B4%EB%A0%88%EC%9D%B8_1.jpg HTTP/1.1" 200 175256
+[14/Jul/2021 17:16:40] "GET /main/getImg?imgId=%EC%B9%B4%EB%A9%9C_3.jpg HTTP/1.1" 200 139862
+[14/Jul/2021 17:16:40] "GET /main/getImg?imgId=%EB%A3%A8%EC%98%A8%EB%A3%A8%EC%98%A8_2.jpg HTTP/1.1" 200 272089
+Not Found: /favicon.ico
+[14/Jul/2021 17:17:55] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 17:32:55] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 17:41:39] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 17:48:14] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 18:52:16] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[14/Jul/2021 19:23:27] "GET /favicon.ico HTTP/1.1" 404 2766
+[14/Jul/2021 20:00:00] "POST /main/result HTTP/1.1" 200 1004
+[14/Jul/2021 20:00:00] "GET /main/getImg?imgId=%EA%B7%B8%EB%A0%88%ED%8A%B8%ED%9E%90%EB%9E%80_1.jpg HTTP/1.1" 200 82165
+[14/Jul/2021 20:00:00] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%98%20%EA%B3%A0%EB%A7%88%EC%9B%8C%EB%8A%98_1.jpg HTTP/1.1" 200 132924
+[14/Jul/2021 20:00:00] "GET /main/getImg?imgId=%ED%8B%B0%EC%BB%AC%EB%A0%89%ED%8B%B0%EB%B8%8C_1.jpg HTTP/1.1" 200 362220
+[14/Jul/2021 20:00:00] "GET /main/getImg?imgId=%EB%8D%94%EB%A1%9C%EC%97%B4%ED%91%B8%EB%93%9C%EC%95%A4%EB%93%9C%EB%A7%81%ED%81%AC_1.jpg HTTP/1.1" 200 81674
+[14/Jul/2021 20:00:00] "GET /main/getImg?imgId=%EC%95%8C%EB%94%94%ED%94%84%20%ED%8B%B0%20%EB%B0%94%20%26%20%EB%9D%BC%EC%9A%B4%EC%A7%80_2.jpg HTTP/1.1" 200 98078
+[14/Jul/2021 21:25:21] "POST /main/result HTTP/1.1" 200 896
+[14/Jul/2021 21:25:22] "GET /main/getImg?imgId=%EA%B3%A8%EB%93%9C%EB%A7%88%EC%9D%B8_3.jpg HTTP/1.1" 200 88786
+[14/Jul/2021 21:25:22] "GET /main/getImg?imgId=In%20The%20Air_1.jpg HTTP/1.1" 200 88577
+[14/Jul/2021 21:25:22] "GET /main/getImg?imgId=%EB%9D%BC%EA%B7%B8%EB%9E%91%EC%9E%90%ED%8A%B8_3.jpg HTTP/1.1" 200 82288
+[14/Jul/2021 21:25:22] "GET /main/getImg?imgId=%EC%84%A0%EB%8D%B0%EC%9D%B4%20%EC%82%AC%EC%9A%B4%EC%A6%88_2.jpg HTTP/1.1" 200 116623
+[14/Jul/2021 21:25:22] "GET /main/getImg?imgId=%ED%83%80%EC%9D%B4%EA%B1%B0%20%EC%97%90%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C_1.jpg HTTP/1.1" 200 164646
+[14/Jul/2021 21:25:36] "POST /main/result HTTP/1.1" 200 896
+Not Found: /favicon.ico
+[15/Jul/2021 00:06:35] "GET /favicon.ico HTTP/1.1" 404 2766
+
+######## else ########
+[{'review_cafename': '스토리지', 'link': 'https://www.diningcode.com/profile.php?rid=jOoOZgIDJEHy', 'imgname_123': '스토리지_3.jpg'}, {'review_cafename': '더카페', 'link': 'https://www.diningcode.com/profile.php?rid=Thik03GRb0Vf', 'imgname_123': '더카페_2.jpg'}, {'review_cafename': '카페 디어리스트', 'link': 'https://www.diningcode.com/profile.php?rid=Oe8I6ga2acHy', 'imgname_123': '카페 디어리스트_1.jpg'}, {'review_cafename': '호놀룰루', 'link': 'https://www.diningcode.com/profile.php?rid=hWr5Cwti5crR', 'imgname_123': '호놀룰루_2.jpg'}, {'review_cafename': '매머드커피', 'link': 'https://www.diningcode.com/profile.php?rid=uTPBmA1upDUe', 'imgname_123': '매머드커피_3.jpg'}]
+######## else ########
+[{'review_cafename': '하이데어', 'link': 'https://www.diningcode.com/profile.php?rid=2GT0r9GvSYX3', 'imgname_123': '하이데어_1.jpg'}, {'review_cafename': '캠퍼스', 'link': 'https://www.diningcode.com/profile.php?rid=bmpXrHTVVOCX', 'imgname_123': '캠퍼스_3.jpg'}, {'review_cafename': '테이크아웃드로잉', 'link': 'https://www.diningcode.com/profile.php?rid=GJqsu2K3Wgu7', 'imgname_123': '테이크아웃드로잉_1.jpg'}, {'review_cafename': '낮도깨비 밤도깨비', 'link': 'https://www.diningcode.com/profile.php?rid=PDa3YpaaVxr7', 'imgname_123': '낮도깨비 밤도깨비_3.jpg'}, {'review_cafename': '모나드 커피로스터스', 'link': 'https://www.diningcode.com/profile.php?rid=QmpoALCqkJMS', 'imgname_123': '모나드 커피로스터스_3.jpg'}]
+######## else ########
+[{'review_cafename': '마핑파', 'link': 'https://www.diningcode.com/profile.php?rid=UyvP6y5e3iFz', 'imgname_123': '마핑파_2.jpg'}, {'review_cafename': '쿠오레 에스프레소', 'link': 'https://www.diningcode.com/profile.php?rid=EF9UhhzCe7wq', 'imgname_123': '쿠오레 에스프레소_2.jpg'}, {'review_cafename': '무진장', 'link': 'https://www.diningcode.com/profile.php?rid=PMcADb55zyMj', 'imgname_123': '무진장_2.jpg'}, {'review_cafename': '파아람티하우스', 'link': 'https://www.diningcode.com/profile.php?rid=efA0ttfW2hlJ', 'imgname_123': '파아람티하우스_3.jpg'}, {'review_cafename': '샌드앤', 'link': 'https://www.diningcode.com/profile.php?rid=U3Gos65wMiWy', 'imgname_123': '샌드앤_3.jpg'}]
+######## else ########
+[{'review_cafename': '에프스토리', 'link': 'https://www.diningcode.com/profile.php?rid=lAWvWlMIvu0W', 'imgname_123': '에프스토리_2.jpg'}, {'review_cafename': '쥬스팩토리', 'link': 'https://www.diningcode.com/profile.php?rid=cKQRaxCxo1Wp', 'imgname_123': '쥬스팩토리_1.jpg'}, {'review_cafename': '유니르', 'link': 'https://www.diningcode.com/profile.php?rid=0T5KvgfsWDht', 'imgname_123': '유니르_3.jpg'}, {'review_cafename': '유니르', 'link': 'https://www.diningcode.com/profile.php?rid=0T5KvgfsWDht', 'imgname_123': '유니르_1.jpg'}, {'review_cafename': '포스터서울', 'link': 'https://www.diningcode.com/profile.php?rid=i0HcHxRMK4KI', 'imgname_123': '포스터서울_1.jpg'}]
+######## else ########
+[{'review_cafename': '앤트러사이트', 'link': 'https://www.diningcode.com/profile.php?rid=2hRW90fXlP9w', 'imgname_123': '앤트러사이트_1.jpg'}, {'review_cafename': '커피베스코', 'link': 'https://www.diningcode.com/profile.php?rid=V00VxpTTiMQg', 'imgname_123': '커피 베스코_3.jpg'}, {'review_cafename': '포비 용산', 'link': 'https://www.diningcode.com/profile.php?rid=eMJauXmzMtWJ', 'imgname_123': '포비 용산_3.jpg'}, {'review_cafename': '은하수다방', 'link': 'https://www.diningcode.com/profile.php?rid=xXmwKb3gsj7e', 'imgname_123': '은하수다방_2.jpg'}, {'review_cafename': '앤트러사이트', 'link': 'https://www.diningcode.com/profile.php?rid=2hRW90fXlP9w', 'imgname_123': '앤트러사이트_2.jpg'}]
+######## else ########
+[{'review_cafename': '공간다반사', 'link': 'https://www.diningcode.com/profile.php?rid=JZbRf46zNhxu', 'imgname_123': '공간다반사_2.jpg'}, {'review_cafename': '루온루온', 'link': 'https://www.diningcode.com/profile.php?rid=S13pAtiyJsSM', 'imgname_123': '루온루온_2.jpg'}, {'review_cafename': '바이레인', 'link': 'https://www.diningcode.com/profile.php?rid=bAG0TntXPvtS', 'imgname_123': '바이레인_1.jpg'}, {'review_cafename': '밀루앤라떼', 'link': 'https://www.diningcode.com/profile.php?rid=YNYr0DKenyR1', 'imgname_123': '밀루앤라떼_3.jpg'}, {'review_cafename': '카멜', 'link': 'https://www.diningcode.com/profile.php?rid=BkUWWoRBmMxW', 'imgname_123': '카멜_3.jpg'}]
+######## else ########
+[{'review_cafename': '티컬렉티브', 'link': 'https://www.diningcode.com/profile.php?rid=UvO2DSX2FUWc', 'imgname_123': '티컬렉티브_1.jpg'}, {'review_cafename': '카페 고마워늘', 'link': 'https://www.diningcode.com/profile.php?rid=Tp67JZhcb0F7', 'imgname_123': '카페 고마워늘_1.jpg'}, {'review_cafename': '그레트힐란', 'link': 'https://www.diningcode.com/profile.php?rid=VkIsMVtA2RX8', 'imgname_123': '그레트힐란_1.jpg'}, {'review_cafename': '더로열푸드앤드링크', 'link': 'https://www.diningcode.com/profile.php?rid=Hq9QGgOGbaN2', 'imgname_123': '더로열푸드앤드링크_1.jpg'}, {'review_cafename': '알디프 티 바 & 라운지', 'link': 'https://www.diningcode.com/profile.php?rid=z1PvQ9uzD8xE', 'imgname_123': '알디프 티 바 & 라운지_2.jpg'}]
+######## else ########
+[{'review_cafename': '라그랑자트', 'link': 'https://www.diningcode.com/profile.php?rid=DWPY0Zs9yUh7', 'imgname_123': '라그랑자트_3.jpg'}, {'review_cafename': '골드마인', 'link': 'https://www.diningcode.com/profile.php?rid=CpExGhju38Kf', 'imgname_123': '골드마인_3.jpg'}, {'review_cafename': '타이거 에스프레소', 'link': 'https://www.diningcode.com/profile.php?rid=uJic2DC3tSFd', 'imgname_123': '타이거 에스프레소_1.jpg'}, {'review_cafename': 'In The Air', 'link': 'https://www.diningcode.com/profile.php?rid=bxWSHqEYly9U', 'imgname_123': 'In The Air_1.jpg'}, {'review_cafename': '선데이 사운즈', 'link': 'https://www.diningcode.com/profile.php?rid=L2kwgCZa8iNQ', 'imgname_123': '선데이 사운즈_2.jpg'}]
+######## else ########
+[{'review_cafename': '라그랑자트', 'link': 'https://www.diningcode.com/profile.php?rid=DWPY0Zs9yUh7', 'imgname_123': '라그랑자트_3.jpg'}, {'review_cafename': '골드마인', 'link': 'https://www.diningcode.com/profile.php?rid=CpExGhju38Kf', 'imgname_123': '골드마인_3.jpg'}, {'review_cafename': '타이거 에스프레소', 'link': 'https://www.diningcode.com/profile.php?rid=uJic2DC3tSFd', 'imgname_123': '타이거 에스프레소_1.jpg'}, {'review_cafename': 'In The Air', 'link': 'https://www.diningcode.com/profile.php?rid=bxWSHqEYly9U', 'imgname_123': 'In The Air_1.jpg'}, {'review_cafename': '선데이 사운즈', 'link': 'https://www.diningcode.com/profile.php?rid=L2kwgCZa8iNQ', 'imgname_123': '선데이 사운즈_2.jpg'}]
+######## else ########
+[{'review_cafename': '라그랑자트', 'link': 'https://www.diningcode.com/profile.php?rid=DWPY0Zs9yUh7', 'imgname_123': '라그랑자트_3.jpg'}, {'review_cafename': '골드마인', 'link': 'https://www.diningcode.com/profile.php?rid=CpExGhju38Kf', 'imgname_123': '골드마인_3.jpg'}, {'review_cafename': '타이거 에스프레소', 'link': 'https://www.diningcode.com/profile.php?rid=uJic2DC3tSFd', 'imgname_123': '타이거 에스프레소_1.jpg'}, {'review_cafename': 'In The Air', 'link': 'https://www.diningcode.com/profile.php?rid=bxWSHqEYly9U', 'imgname_123': 'In The Air_1.jpg'}, {'review_cafename': '선데이 사운즈', 'link': 'https://www.diningcode.com/profile.php?rid=L2kwgCZa8iNQ', 'imgname_123': '선데이 사운즈_2.jpg'}]
+######## else ########
+[{'review_cafename': '공간다반사', 'link': 'https://www.diningcode.com/profile.php?rid=JZbRf46zNhxu', 'imgname_123': '공간다반사_2.jpg'}, {'review_cafename': '루온루온', 'link': 'https://www.diningcode.com/profile.php?rid=S13pAtiyJsSM', 'imgname_123': '루온루온_2.jpg'}, {'review_cafename': '바이레인', 'link': 'https://www.diningcode.com/profile.php?rid=bAG0TntXPvtS', 'imgname_123': '바이레인_1.jpg'}, {'review_cafename': '밀루앤라떼', 'link': 'https://www.diningcode.com/profile.php?rid=YNYr0DKenyR1', 'imgname_123': '밀루앤라떼_3.jpg'}, {'review_cafename': '카멜', 'link': 'https://www.diningcode.com/profile.php?rid=BkUWWoRBmMxW', 'imgname_123': '카멜_3.jpg'}][15/Jul/2021 00:26:33] "POST /main/result HTTP/1.1" 200 836
+[15/Jul/2021 00:26:33] "GET /main/getImg?imgId=%EA%B3%B5%EA%B0%84%EB%8B%A4%EB%B0%98%EC%82%AC_2.jpg HTTP/1.1" 200 120788
+[15/Jul/2021 00:26:33] "GET /main/getImg?imgId=%EB%B0%94%EC%9D%B4%EB%A0%88%EC%9D%B8_1.jpg HTTP/1.1" 200 175256
+[15/Jul/2021 00:26:33] "GET /main/getImg?imgId=%EB%B0%80%EB%A3%A8%EC%95%A4%EB%9D%BC%EB%96%BC_3.jpg HTTP/1.1" 200 93444
+[15/Jul/2021 00:26:33] "GET /main/getImg?imgId=%EC%B9%B4%EB%A9%9C_3.jpg HTTP/1.1" 200 139862
+[15/Jul/2021 00:26:33] "GET /main/getImg?imgId=%EB%A3%A8%EC%98%A8%EB%A3%A8%EC%98%A8_2.jpg HTTP/1.1" 200 272089
+[15/Jul/2021 00:37:43] "POST /main/result HTTP/1.1" 200 900
+[15/Jul/2021 00:37:43] "GET /main/getImg?imgId=%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8%20%EC%97%94%EC%A0%A4_1.jpg HTTP/1.1" 200 161992
+[15/Jul/2021 00:37:43] "GET /main/getImg?imgId=%EB%9E%91%EB%8D%B0%EC%9E%90%EB%B7%B0%20%EC%95%BD%EC%88%98%EC%A0%90_3.jpg HTTP/1.1" 200 345401
+[15/Jul/2021 00:37:43] "GET /main/getImg?imgId=%EC%95%84%ED%8A%B8%EB%A9%94%EC%9D%B4%EC%A0%80_3.jpg HTTP/1.1" 200 252562
+[15/Jul/2021 00:37:43] "GET /main/getImg?imgId=%EC%BB%A4%ED%94%BC%ED%95%9C%EC%83%81_1.jpg HTTP/1.1" 200 291325
+[15/Jul/2021 00:37:43] "GET /main/getImg?imgId=%EB%94%94%EB%B2%99%ED%81%AC_3.jpg HTTP/1.1" 200 170266
+Not Found: /favicon.ico
+[15/Jul/2021 02:52:09] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[15/Jul/2021 02:52:09] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[15/Jul/2021 02:55:21] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[15/Jul/2021 02:55:21] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[15/Jul/2021 03:06:47] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[15/Jul/2021 03:06:47] "GET /favicon.ico HTTP/1.1" 404 2766
+[15/Jul/2021 04:23:09] "POST /main/result HTTP/1.1" 200 1004
+[15/Jul/2021 04:23:09] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%98%20%EA%B3%A0%EB%A7%88%EC%9B%8C%EB%8A%98_1.jpg HTTP/1.1" 200 132924
+[15/Jul/2021 04:23:09] "GET /main/getImg?imgId=%EB%8D%94%EB%A1%9C%EC%97%B4%ED%91%B8%EB%93%9C%EC%95%A4%EB%93%9C%EB%A7%81%ED%81%AC_1.jpg HTTP/1.1" 200 81674
+[15/Jul/2021 04:23:09] "GET /main/getImg?imgId=%ED%8B%B0%EC%BB%AC%EB%A0%89%ED%8B%B0%EB%B8%8C_1.jpg HTTP/1.1" 200 362220
+[15/Jul/2021 04:23:09] "GET /main/getImg?imgId=%EA%B7%B8%EB%A0%88%ED%8A%B8%ED%9E%90%EB%9E%80_1.jpg HTTP/1.1" 200 82165
+[15/Jul/2021 04:23:09] "GET /main/getImg?imgId=%EC%95%8C%EB%94%94%ED%94%84%20%ED%8B%B0%20%EB%B0%94%20%26%20%EB%9D%BC%EC%9A%B4%EC%A7%80_2.jpg HTTP/1.1" 200 98078
+Not Found: /favicon.ico
+[15/Jul/2021 04:55:20] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[15/Jul/2021 04:57:36] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[15/Jul/2021 06:49:47] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[15/Jul/2021 06:50:27] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[15/Jul/2021 06:50:29] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[15/Jul/2021 07:01:28] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[15/Jul/2021 07:03:45] "GET /favicon.ico HTTP/1.1" 404 2766
+[15/Jul/2021 07:53:05] "POST /main/result HTTP/1.1" 200 863
+[15/Jul/2021 07:53:05] "GET /main/getImg?imgId=BAEBAE%20COFFEE_3.jpg HTTP/1.1" 200 322775
+[15/Jul/2021 07:53:05] "GET /main/getImg?imgId=%EC%82%B4%EA%B5%AC%EB%8B%A4%EB%B0%A9_1.jpg HTTP/1.1" 200 320595
+[15/Jul/2021 07:53:05] "GET /main/getImg?imgId=%EC%BB%A4%ED%94%BC%20%EB%B2%A0%EC%8A%A4%EC%BD%94_3.jpg HTTP/1.1" 200 150548
+[15/Jul/2021 07:53:05] "GET /main/getImg?imgId=%EC%95%A0%EC%A6%88%EB%9D%BC%EC%9D%B4%ED%81%AC_2.jpg HTTP/1.1" 200 335835
+[15/Jul/2021 07:53:05] "GET /main/getImg?imgId=%EB%B3%B4%EC%8A%A4%EC%BD%94%EC%BF%A0%EC%B9%98%EB%82%98_2.jpg HTTP/1.1" 200 3939822
+Not Found: /favicon.ico
+[15/Jul/2021 08:36:34] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[15/Jul/2021 08:36:36] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[15/Jul/2021 08:49:18] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[15/Jul/2021 11:01:08] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[15/Jul/2021 11:01:20] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[15/Jul/2021 11:04:35] "GET /favicon.ico HTTP/1.1" 404 2766
+[15/Jul/2021 13:27:52] "POST /main/result HTTP/1.1" 200 836
+[15/Jul/2021 13:27:52] "GET /main/getImg?imgId=%EA%B3%B5%EA%B0%84%EB%8B%A4%EB%B0%98%EC%82%AC_2.jpg HTTP/1.1" 200 120788
+[15/Jul/2021 13:27:52] "GET /main/getImg?imgId=%EB%B0%80%EB%A3%A8%EC%95%A4%EB%9D%BC%EB%96%BC_3.jpg HTTP/1.1" 200 93444
+[15/Jul/2021 13:27:52] "GET /main/getImg?imgId=%EB%B0%94%EC%9D%B4%EB%A0%88%EC%9D%B8_1.jpg HTTP/1.1" 200 175256
+[15/Jul/2021 13:27:52] "GET /main/getImg?imgId=%EB%A3%A8%EC%98%A8%EB%A3%A8%EC%98%A8_2.jpg HTTP/1.1" 200 272089
+[15/Jul/2021 13:27:52] "GET /main/getImg?imgId=%EC%B9%B4%EB%A9%9C_3.jpg HTTP/1.1" 200 139862
+[15/Jul/2021 13:28:28] "POST /main/result HTTP/1.1" 200 1004
+[15/Jul/2021 13:28:28] "GET /main/getImg?imgId=%EC%B9%B4%ED%8E%98%20%EA%B3%A0%EB%A7%88%EC%9B%8C%EB%8A%98_1.jpg HTTP/1.1" 200 132924
+[15/Jul/2021 13:28:28] "GET /main/getImg?imgId=%ED%8B%B0%EC%BB%AC%EB%A0%89%ED%8B%B0%EB%B8%8C_1.jpg HTTP/1.1" 200 362220
+[15/Jul/2021 13:28:28] "GET /main/getImg?imgId=%EB%8D%94%EB%A1%9C%EC%97%B4%ED%91%B8%EB%93%9C%EC%95%A4%EB%93%9C%EB%A7%81%ED%81%AC_1.jpg HTTP/1.1" 200 81674
+[15/Jul/2021 13:28:28] "GET /main/getImg?imgId=%EC%95%8C%EB%94%94%ED%94%84%20%ED%8B%B0%20%EB%B0%94%20%26%20%EB%9D%BC%EC%9A%B4%EC%A7%80_2.jpg HTTP/1.1" 200 98078
+[15/Jul/2021 13:28:28] "GET /main/getImg?imgId=%EA%B7%B8%EB%A0%88%ED%8A%B8%ED%9E%90%EB%9E%80_1.jpg HTTP/1.1" 200 82165
+Not Found: /favicon.ico
+[15/Jul/2021 15:52:50] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[15/Jul/2021 16:21:31] "GET /favicon.ico HTTP/1.1" 404 2766
+Not Found: /favicon.ico
+[15/Jul/2021 16:25:21] "GET /favicon.ico HTTP/1.1" 404 2766
+/workspace/tobigs_cafeIn/main/views.py changed, reloading.
+
+######## else ########
+[{'review_cafename': '콘크리트 엔젤', 'link': 'https://www.diningcode.com/profile.php?rid=RMBBsJNUNSNQ', 'imgname_123': '콘크리트 엔젤_1.jpg'}, {'review_cafename': '커피한상', 'link': 'https://www.diningcode.com/profile.php?rid=cXbdrhpr40FG', 'imgname_123': '커피한상_1.jpg'}, {'review_cafename': '랑데자뷰 약수점', 'link': 'https://www.diningcode.com/profile.php?rid=nNTeeZ1Ue94h', 'imgname_123': '랑데자뷰 약수점_3.jpg'}, {'review_cafename': '아트메이저', 'link': 'https://www.diningcode.com/profile.php?rid=q4pu9K8wEUxd', 'imgname_123': '아트메이저_3.jpg'}, {'review_cafename': '디벙크', 'link': 'https://www.diningcode.com/profile.php?rid=IoJgXmedMPTj', 'imgname_123': '디벙크_3.jpg'}]
+######## else ########
+[{'review_cafename': '티컬렉티브', 'link': 'https://www.diningcode.com/profile.php?rid=UvO2DSX2FUWc', 'imgname_123': '티컬렉티브_1.jpg'}, {'review_cafename': '카페 고마워늘', 'link': 'https://www.diningcode.com/profile.php?rid=Tp67JZhcb0F7', 'imgname_123': '카페 고마워늘_1.jpg'}, {'review_cafename': '그레트힐란', 'link': 'https://www.diningcode.com/profile.php?rid=VkIsMVtA2RX8', 'imgname_123': '그레트힐란_1.jpg'}, {'review_cafename': '더로열푸드앤드링크', 'link': 'https://www.diningcode.com/profile.php?rid=Hq9QGgOGbaN2', 'imgname_123': '더로열푸드앤드링크_1.jpg'}, {'review_cafename': '알디프 티 바 & 라운지', 'link': 'https://www.diningcode.com/profile.php?rid=z1PvQ9uzD8xE', 'imgname_123': '알디프 티 바 & 라운지_2.jpg'}]
+######## else ########
+[{'review_cafename': 'BAEBAE COFFEE', 'link': 'https://www.diningcode.com/profile.php?rid=kEN2RtGaVFdH', 'imgname_123': 'BAEBAE COFFEE_3.jpg'}, {'review_cafename': '살구다방', 'link': 'https://www.diningcode.com/profile.php?rid=jddCRrKVARnf', 'imgname_123': '살구다방_1.jpg'}, {'review_cafename': '보스코쿠치나', 'link': 'https://www.diningcode.com/profile.php?rid=gl1DqegZTL42', 'imgname_123': '보스코쿠치나_2.jpg'}, {'review_cafename': '커피베스코', 'link': 'https://www.diningcode.com/profile.php?rid=V00VxpTTiMQg', 'imgname_123': '커피 베스코_3.jpg'}, {'review_cafename': '애즈라이크', 'link': 'https://www.diningcode.com/profile.php?rid=TTSnM6UGngX2', 'imgname_123': '애즈라이크_2.jpg'}]
+######## else ########
+[{'review_cafename': '공간다반사', 'link': 'https://www.diningcode.com/profile.php?rid=JZbRf46zNhxu', 'imgname_123': '공간다반사_2.jpg'}, {'review_cafename': '루온루온', 'link': 'https://www.diningcode.com/profile.php?rid=S13pAtiyJsSM', 'imgname_123': '루온루온_2.jpg'}, {'review_cafename': '바이레인', 'link': 'https://www.diningcode.com/profile.php?rid=bAG0TntXPvtS', 'imgname_123': '바이레인_1.jpg'}, {'review_cafename': '밀루앤라떼', 'link': 'https://www.diningcode.com/profile.php?rid=YNYr0DKenyR1', 'imgname_123': '밀루앤라떼_3.jpg'}, {'review_cafename': '카멜', 'link': 'https://www.diningcode.com/profile.php?rid=BkUWWoRBmMxW', 'imgname_123': '카멜_3.jpg'}]
+######## else ########
+[{'review_cafename': '티컬렉티브', 'link': 'https://www.diningcode.com/profile.php?rid=UvO2DSX2FUWc', 'imgname_123': '티컬렉티브_1.jpg'}, {'review_cafename': '카페 고마워늘', 'link': 'https://www.diningcode.com/profile.php?rid=Tp67JZhcb0F7', 'imgname_123': '카페 고마워늘_1.jpg'}, {'review_cafename': '그레트힐란', 'link': 'https://www.diningcode.com/profile.php?rid=VkIsMVtA2RX8', 'imgname_123': '그레트힐란_1.jpg'}, {'review_cafename': '더로열푸드앤드링크', 'link': 'https://www.diningcode.com/profile.php?rid=Hq9QGgOGbaN2', 'imgname_123': '더로열푸드앤드링크_1.jpg'}, {'review_cafename': '알디프 티 바 & 라운지', 'link': 'https://www.diningcode.com/profile.php?rid=z1PvQ9uzD8xE', 'imgname_123': '알디프 티 바 & 라운지_2.jpg'}]
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+[15/Jul/2021 16:33:40] "GET /favicon.ico HTTP/1.1" 404 2766
