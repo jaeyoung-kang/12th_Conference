@@ -66,7 +66,7 @@
 
 ## Presentation
 저희 프로젝트에 대해 자세하게 알고 싶으시다면, 프로젝트 설명자료를 참고해주세요. 
-* [![GoogleDrive Badge](https://img.shields.io/badge/Presentation-405263?style=flat-square&logo=Quip&link=https://drive.google.com/file/d/1VnYsB8k4Fxu6UFhAxuTi4m01BjoH2uwS/view?usp=sharing)](https://drive.google.com/file/d/1BBPx9SF7cjF7q5UEAIsVVZp2RD5OEAl1/view?usp=sharing)
+* [![GoogleDrive Badge](https://img.shields.io/badge/Presentation-405263?style=flat-square&logo=Quip&link=https://drive.google.com/file/d/1thLOrMyCNk6QBY0UpBP6dlTLRFDvcNcj/view?usp=sharing)](https://drive.google.com/file/d/1thLOrMyCNk6QBY0UpBP6dlTLRFDvcNcj/view?usp=sharing)
 * [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/watch?v=cVN_AV9PVBY)](https://www.youtube.com/watch?v=cVN_AV9PVBY)
 
 
